@@ -22,6 +22,6 @@
 
 ### Other places you can find me 
 
-🐣 [See my Tweet](https://twitter.com/roysamik)
+🐣 [See my Tweet](https://twitter.com/roy_samik)
 
 🏀 [Linkedin](https://www.linkedin.com/in/roysamik/)
