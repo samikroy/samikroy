@@ -4,7 +4,7 @@
 **samikroy/samikroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [Open Systems](https://www.open-systems.com/)
+- 🔭 I’m currently working at [Open Systems](https://www.open-systems.com/)
 <!--
 - 🌱 I’m currently learning Azure Securities
 - 👯 I’m looking to collaborate on ...
