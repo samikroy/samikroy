@@ -4,18 +4,17 @@
 **samikroy/samikroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at [Open Systems](https://www.open-systems.com/)
-<!--
-- 🌱 I’m currently learning Azure Securities
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about KQL, Azure Sentinel
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [Open Systems](https://www.open-systems.com/) as Lead Cloud Developer
 
-<!--[![HitCount](http://hits.dwyl.com/samikroy/samikroy.svg)](http://hits.dwyl.com/samikroy/samikroy)-->
+- 🌱 I’m currently learning Azure Security
+- 👯 I’m looking to collaborate on Security ...
+- 🤔 I’m looking for help with Community Contributions ...
+- 💬 Ask me about KQL, Azure Sentinel, Azure Secuirty Center
+- 📫 How to reach me: [Email](mailto:sami.n.roy@gmail.com?subject=From:Github)
+- ⚡ Fun fact: ...
+
+
+[![HitCount](http://hits.dwyl.com/samikroy/samikroy.svg)](http://hits.dwyl.com/samikroy/samikroy)
 
 ### ![My Stats](https://github-readme-stats.vercel.app/api?username=samikroy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
@@ -25,3 +24,5 @@
 🐣 [See my Tweet](https://twitter.com/roy_samik)
 
 🏀 [Linkedin](https://www.linkedin.com/in/roysamik/)
+
+📝 [Wordpress](https://samikroy.wordpress.com/)
