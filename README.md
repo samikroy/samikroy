@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **samikroy/samikroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,15 +17,10 @@
 
 [<img src="https://raw.githubusercontent.com/samikroy/samikroy/master/linkedin.png" height="40em" align="center" alt="Follow Samik on LinkedIn" title="Follow Samik on LinkedIn"/>](https://linkedin.com/in/roysamik)
 [<img src="https://raw.githubusercontent.com/samikroy/samikroy/master/twitter.svg" height="40em" align="center" alt="Follow Samik on Twitter" title="Follow Samik on Twitter"/>](https://twitter.com/roy_samik)
+[<img src="https://raw.githubusercontent.com/samikroy/samikroy/master/Wordpress_Blue_logo.png" height="40em" align="center" alt="Follow Samik on wordpress" title="Follow Samik on Wordpress"/>](https://samikroy.wordpress.com/)
+
 
 
 <!--### ![My Stats](https://github-readme-stats.vercel.app/api?username=samikroy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)-->
 
 
-### Other places you can find me 
-
-🐣 [See my Tweet](https://twitter.com/roy_samik)
-
-🏀 [Linkedin](https://www.linkedin.com/in/roysamik/)
-
-📝 [Wordpress](https://samikroy.wordpress.com/)
