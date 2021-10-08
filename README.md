@@ -1,3 +1,6 @@
+<table>
+<tr>
+  <td>
 ## Hi there 👋
 
 <!--
@@ -19,8 +22,13 @@
 [<img src="https://raw.githubusercontent.com/samikroy/samikroy/master/twitter.svg" height="40em" align="center" alt="Follow Samik on Twitter" title="Follow Samik on Twitter"/>](https://twitter.com/roy_samik)
 [<img src="https://raw.githubusercontent.com/samikroy/samikroy/master/Wordpress_Blue_logo.png" height="40em" align="center" alt="Follow Samik on wordpress" title="Follow Samik on Wordpress"/>](https://samikroy.wordpress.com/)
 
-
-
+    </td>
+  <td>
+    
+<a href="https://app.daily.dev/samikroy"><img src="https://api.daily.dev/devcards/4c699a22b6d6408ea4863e3df7a905a1.png?r=r6j" width="400" alt="Samik Roy's Dev Card"></a>
+</td>
+  </tr>
+  </table>
 <!--### ![My Stats](https://github-readme-stats.vercel.app/api?username=samikroy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)-->
 
 
