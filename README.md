@@ -25,7 +25,7 @@
     </td>
   <td>
     
-<a href="https://app.daily.dev/samikroy"><img src="https://api.daily.dev/devcards/4c699a22b6d6408ea4863e3df7a905a1.png?r=r6j" width="400" alt="Samik Roy's Dev Card"></a>
+<a href="https://app.daily.dev/samikroy"><img src="https://api.daily.dev/devcards/4c699a22b6d6408ea4863e3df7a905a1.png?r=wrz" width="400" alt="Samik Roy's Dev Card"></a>
 </td>
   </tr>
   </table>
