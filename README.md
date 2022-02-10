@@ -13,12 +13,20 @@
 ![Metrics](https://metrics.lecoq.io/samikroy?template=classic&config.timezone=Asia%2FCalcutta)
 
 ## 🔔 Community Badges
-
 - [Cloud Security Product Champain - Year 2022](https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0?source=linked_in_profile)
 - [Product Influencer - Year 2021](https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9?source=linked_in_profile)
 - [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
 - [Top 15 Threat Hunter by Microsoft Sentinel - Year 2021-22 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
+   
+## 🔔 Community Webinars
 
+   - [SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India - Nov, 2021](https://www.youtube.com/watch?v=kRteEUmx41o)
+   - [SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India - Oct, 2021](https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s)
+   - [SpeakerSpeaker, Microsoft 365 Virtual Marathon - May 2021](https://www.m365virtualmarathon.com/schedule.html)
+   - [SpeakerSpeaker, 2020twentycon - June, 2020](https://www.youtube.com/watch?v=2T0Pr4eOd_I&t=2s)
+   
+ 
+   
 ## 🔔 Community Contributions
 
 <table border=0 cellpadding=0 cellspacing=0>
