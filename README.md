@@ -26,13 +26,13 @@
    - [Make sense of Logs with Azure Wokbooks at Microsoft 365 Virtual Marathon - May 2021](https://www.m365virtualmarathon.com/schedule.html)
    - [Zero to Hero in Azure Sentinel at Microsoft 365 Virtual Marathon - May 2021](https://www.m365virtualmarathon.com/schedule.html)
    - [Hunting with Jupyter Notebooks in Azure Sentinel  at 2020twentycon - June, 2020](https://www.youtube.com/watch?v=2T0Pr4eOd_I&t=2s)
-   - [Remediate and Secure your Organization with Azure Sentinel, the new ERA SIEM  at 2020twentycon - May, 2020]
-   - [Talk to Power BI in Natural Language at Global Power Platform Bootcamp - Feb, 2020]
-   - [Color your Chatbot at Azure Vidyapeeth - June, 2019]
-   - [ABC of AzureFunctions at Azure Vidyapeeth - May, 2019]
-   - [Tailor Azure Loganalytics with Kustoqueries at Azure Vidyapeeth - June, 2019]
-   - [Empower Your Site Provisioning With Site Scripts And Site Designs For Modern Sharepoint Sites at C# Corner - March, 2019]
-   - [PowerShell Script with AI-Infused Automation at SharePoint Saturday Hyderabad - March, 2019]
+   - Remediate and Secure your Organization with Azure Sentinel, the new ERA SIEM  at 2020twentycon - May, 2020
+   - Talk to Power BI in Natural Language at Global Power Platform Bootcamp - Feb, 2020
+   - Color your Chatbot at Azure Vidyapeeth - June, 2019
+   - ABC of AzureFunctions at Azure Vidyapeeth - May, 2019
+   - Tailor Azure Loganalytics with Kustoqueries at Azure Vidyapeeth - June, 2019
+   - Empower Your Site Provisioning With Site Scripts And Site Designs For Modern Sharepoint Sites at C# Corner - March, 2019
+   - PowerShell Script with AI-Infused Automation at SharePoint Saturday Hyderabad - March, 2019
    
     
 ## 🔔 Community Contributions
