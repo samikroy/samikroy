@@ -17,7 +17,7 @@
 - [Cloud Security Product Champain - Year 2022](https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0?source=linked_in_profile)
 - [Product Influencer - Year 2021](https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9?source=linked_in_profile)
 - [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
-- [Top 15 Threat Hunter by Microsoft Sentinel - Year 2021-22 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
+- [Top 12 Threat Hunter by Microsoft Sentinel - Year 2021-22 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
    
 ## 🔔 Community Webinars
 
@@ -61,7 +61,7 @@
   <td height=290 class=xl15648 style='height:217.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4128</td>
   <td class=xl15648>Adding a new workook for MicrosoftTeams</td>
   <td class=xl15648>Workbook</td>
-  <td class=xl15648>open</td>
+  <td class=xl15648>closed</td>
   <td class=xl63648 width=503 style='width:378pt'>Change(s):<br>
     <br>
     Azure-Sentinel/Workbooks/MicrosoftTeams.json- A new workbook added with the
@@ -122,7 +122,7 @@
   <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4089</td>
   <td class=xl15648>Create CiscoFirepower.json</td>
   <td class=xl15648>Workbook</td>
-  <td class=xl15648>open</td>
+  <td class=xl15648>closed</td>
   <td class=xl63648 width=503 style='width:378pt'>New workbook for Cisco
   Firepower as a troubleshooting for #4002</td>
   <td class=xl65648>2022-02-04T18:05:23Z</td>
