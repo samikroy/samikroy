@@ -36,33 +36,85 @@
    
     
 ## 🔔 Community Contributions
+[Click to view in detail](https://github.com/Azure/Azure-Sentinel/pulls?q=is%3Apr+author%3Asamikroy)
 
-<table border=0 cellpadding=0 cellspacing=0>
- <col width=327 style='mso-width-source:userset;mso-width-alt:11426;width:246pt'>
- <col width=503 style='mso-width-source:userset;mso-width-alt:17570;width:378pt'>
- <col width=96 style='mso-width-source:userset;mso-width-alt:3351;width:72pt'>
- <col width=64 style='width:48pt'>
- <col width=503 style='mso-width-source:userset;mso-width-alt:17570;width:378pt'>
- <col class=xl65648 width=141 style='mso-width-source:userset;mso-width-alt:
- 4933;width:106pt'>
- <col class=xl64648 width=141 span=2 style='mso-width-source:userset;
- mso-width-alt:4933;width:106pt'>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 width=327 style='height:14.5pt;width:246pt'>URL</td>
-  <td class=xl15648 width=503 style='width:378pt'>Title</td>
-  <td class=xl15648 width=96 style='width:72pt'>Label</td>
-  <td class=xl15648 width=64 style='width:48pt'>State</td>
-  <td class=xl15648 width=503 style='width:378pt'>body</td>
-  <td class=xl65648 width=141 style='width:106pt'>created_at</td>
-  <td class=xl64648 width=141 style='width:106pt'>updated_at</td>
-  <td class=xl64648 width=141 style='width:106pt'>closed_at</td>
+
+<table border=0 cellpadding=0 cellspacing=0 width=7358 style='border-collapse:
+ collapse;table-layout:fixed;width:5544pt'>
+ <col width=351 style='mso-width-source:userset;mso-width-alt:11221;width:263pt'>
+ <col width=69 style='width:52pt'>
+ <col width=57 style='mso-width-source:userset;mso-width-alt:1813;width:43pt'>
+ <col width=119 style='mso-width-source:userset;mso-width-alt:3818;width:90pt'>
+ <col width=69 span=98 style='width:52pt'>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 width=351 style='height:15.5pt;width:263pt'>URL</td>
+  <td width=69 style='width:52pt'>Title</td>
+  <td width=57 style='width:43pt'>State</td>
+  <td width=119 style='width:90pt'>Created</td>
+  <td width=69 style='width:52pt'>Closed<span style='mso-spacerun:yes'> </span></td>
+  <td width=69 style='width:52pt'>Labels</td>
+  <td width=69 style='width:52pt'>Body</td>
  </tr>
- <tr height=290 style='height:217.5pt'>
-  <td height=290 class=xl15648 style='height:217.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4128</td>
-  <td class=xl15648>Adding a new workook for MicrosoftTeams</td>
-  <td class=xl15648>Workbook</td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Change(s):<br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4289" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4289</a></td>
+  <td>Adding a <span style='display:none'>new workbook for Teams solution.</span></td>
+  <td>open</td>
+  <td class=xl66>2022-03-01</td>
+  <td></td>
+  <td></td>
+  <td colspan=56 style='mso-ignore:colspan'>Azure-Sentinel/Solutions/Teams/Workbooks/MicrosoftTeams.json-
+  A new workbook added with the following tabs<br>
+    Overview - An overview of Microsoft Teams logs in OfficeActivity.<br>
+    Admin Activity - Administration activities in Microsoft Teams.<br>
+    External User Activity - External user activities<br>
+    Hunting - Hunting activities in Microsoft Teams.<br>
+    <br>
+    Azure-Sentinel/Workbooks/Images/Logos - To add workbook logo.<br>
+    <br>
+    Azure-Sentinel/Solutions/Teams/Workbooks/Images/Preview - To add preview
+  images.<br>
+    <br>
+    This is based on the new workbook on #4128 .<br>
+    This might be a good fit to the solution.</td>
+  <td colspan=40 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4267" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4267</a></td>
+  <td>Updated S<span style='display:none'>harePointAndOneDrive.json to fix
+  #4245</span></td>
+  <td>open</td>
+  <td class=xl66>2022-02-25</td>
+  <td></td>
+  <td></td>
+  <td colspan=5 style='mso-ignore:colspan'>Updated SharePointAndOneDrive.json
+  to fix #4245<span style='mso-spacerun:yes'> </span></td>
+  <td colspan=91 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4266" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4266</a></td>
+  <td>Update Az<span style='display:none'>urePortalSigninfromanotherAzureTenant.yaml
+  to fix #4262</span></td>
+  <td>open</td>
+  <td class=xl66>2022-02-25</td>
+  <td></td>
+  <td></td>
+  <td colspan=7 style='mso-ignore:colspan'>Update
+  AzurePortalSigninfromanotherAzureTenant.yaml to fix #4262<span
+  style='mso-spacerun:yes'> </span></td>
+  <td colspan=89 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4128" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4128</a></td>
+  <td>Adding a <span style='display:none'>new workook for MicrosoftTeams</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-02-08</td>
+  <td>2022-02-2<span style='display:none'>8</span></td>
+  <td>Workbook</td>
+  <td colspan=54 style='mso-ignore:colspan'>Change(s):<br>
     <br>
     Azure-Sentinel/Workbooks/MicrosoftTeams.json- A new workbook added with the
   following tabs<br>
@@ -77,945 +129,766 @@
     Azure-Sentinel/Workbooks/Images/Logos - To add workbook logo.<br>
     <br>
     Azure-Sentinel/Workbooks/Images/Preview - To add preview images.</td>
-  <td class=xl65648>2022-02-08T19:46:56Z</td>
-  <td class=xl64648>2022-02-09T14:19:14Z</td>
-  <td class=xl64648></td>
+  <td colspan=42 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4127</td>
-  <td class=xl15648>Fixing typo for #4123</td>
-  <td class=xl15648>Detection</td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648>@ShaniFelig &amp; @petebryan<span
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4127" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4127</a></td>
+  <td>Fixing typ<span style='display:none'>o for #4123</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-02-08</td>
+  <td>2022-02-0<span style='display:none'>8</span></td>
+  <td>Detection</td>
+  <td colspan=7 style='mso-ignore:colspan'>@ShaniFelig &amp; @petebryan<span
   style='mso-spacerun:yes'>  </span>- Fixing typo for #4123, please have a
   look.</td>
-  <td class=xl65648>2022-02-08T19:20:26Z</td>
-  <td class=xl64648>2022-02-08T21:21:32Z</td>
-  <td class=xl64648>2022-02-08T20:20:11Z</td>
+  <td colspan=89 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4116</td>
-  <td class=xl15648>Update readme.md to update reader to responder to ensure
-  comment updates.</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648>Update readme.md to update reader to responder to ensure
-  comment updates.</td>
-  <td class=xl65648>2022-02-08T09:47:29Z</td>
-  <td class=xl64648>2022-02-09T06:35:02Z</td>
-  <td class=xl64648>2022-02-09T05:59:28Z</td>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4116" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4116</a></td>
+  <td>Update re<span style='display:none'>adme.md to update reader to responder
+  to ensure comment updates.</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-02-08</td>
+  <td>2022-02-0<span style='display:none'>9</span></td>
+  <td></td>
+  <td colspan=8 style='mso-ignore:colspan'>Update readme.md to update reader to
+  responder to ensure comment updates.</td>
+  <td colspan=88 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=39 style='height:29.0pt'>
-  <td height=39 class=xl15648 style='height:29.0pt'>https://github.com/Azure/Azure-Sentinel/pull/4098</td>
-  <td class=xl15648>Updated WSLMalwareCorrelation.yaml for #4054</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Updated
-  WSLMalwareCorrelation.yaml for #4054 <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4098" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4098</a></td>
+  <td>Updated <span style='display:none'>WSLMalwareCorrelation.yaml for #4054</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-02-07</td>
+  <td>2022-02-0<span style='display:none'>8</span></td>
+  <td></td>
+  <td colspan=9 style='mso-ignore:colspan'>Updated WSLMalwareCorrelation.yaml
+  for #4054 <br>
     @shainw &amp; @oshezaf - Please have a look.</td>
-  <td class=xl65648>2022-02-07T05:39:14Z</td>
-  <td class=xl64648>2022-02-09T04:40:28Z</td>
-  <td class=xl64648>2022-02-08T20:16:28Z</td>
+  <td colspan=87 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4089</td>
-  <td class=xl15648>Create CiscoFirepower.json</td>
-  <td class=xl15648>Workbook</td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>New workbook for Cisco
-  Firepower as a troubleshooting for #4002</td>
-  <td class=xl65648>2022-02-04T18:05:23Z</td>
-  <td class=xl64648>2022-02-09T14:16:59Z</td>
-  <td class=xl64648></td>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4089" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4089</a></td>
+  <td>Create Cis<span style='display:none'>coFirepower.json</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-02-04</td>
+  <td>2022-02-2<span style='display:none'>4</span></td>
+  <td>Workbook</td>
+  <td colspan=7 style='mso-ignore:colspan'>New workbook for Cisco Firepower as
+  a troubleshooting for #4002<span style='mso-spacerun:yes'>  </span></td>
+  <td colspan=89 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4077</td>
-  <td class=xl15648>Possible Fix for #4052</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648>Possible fix for #4052<span
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4077" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4077</a></td>
+  <td>Possible Fi<span style='display:none'>x for #4052</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-02-02</td>
+  <td>2022-02-0<span style='display:none'>5</span></td>
+  <td></td>
+  <td colspan=3 style='mso-ignore:colspan'>Possible fix for #4052<span
   style='mso-spacerun:yes'> </span></td>
-  <td class=xl65648>2022-02-02T13:36:43Z</td>
-  <td class=xl64648>2022-02-07T04:38:45Z</td>
-  <td class=xl64648>2022-02-05T01:38:45Z</td>
+  <td colspan=93 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4063</td>
-  <td class=xl15648>Fix for #4060</td>
-  <td class=xl15648>Detection</td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648></td>
-  <td class=xl65648>2022-02-01T15:46:40Z</td>
-  <td class=xl64648>2022-02-02T15:55:36Z</td>
-  <td class=xl64648>2022-02-02T15:27:49Z</td>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4063" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4063</a></td>
+  <td>Fix for #40<span style='display:none'>60</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-02-01</td>
+  <td>2022-02-0<span style='display:none'>2</span></td>
+  <td>Detection</td>
+  <td></td>
+  <td colspan=95 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4012</td>
-  <td class=xl15648>Updated README.md for #4011</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648>Updated README.md for #4011<span
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4012" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4012</a></td>
+  <td>Updated <span style='display:none'>README.md for #4011</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-01-26</td>
+  <td>2022-02-0<span style='display:none'>2</span></td>
+  <td></td>
+  <td colspan=4 style='mso-ignore:colspan'>Updated README.md for #4011<span
   style='mso-spacerun:yes'> </span></td>
-  <td class=xl65648>2022-01-26T09:15:44Z</td>
-  <td class=xl64648>2022-02-09T04:38:58Z</td>
-  <td class=xl64648>2022-02-02T00:04:16Z</td>
+  <td colspan=92 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=58 style='height:43.5pt'>
-  <td height=58 class=xl15648 style='height:43.5pt'>https://github.com/Azure/Azure-Sentinel/pull/4010</td>
-  <td class=xl15648>Rename Log4jPostCompromiseHunting to
-  Log4jPostCompromiseHunting.json</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Renaming the workbook for
-  make it visible in Sentinel Templates.<br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4010" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4010</a></td>
+  <td>Rename L<span style='display:none'>og4jPostCompromiseHunting to
+  Log4jPostCompromiseHunting.json</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-01-26</td>
+  <td>2022-01-2<span style='display:none'>7</span></td>
+  <td></td>
+  <td colspan=15 style='mso-ignore:colspan'>Renaming the workbook for make it
+  visible in Sentinel Templates.<br>
     @v-rucdu @alexkarabas - Updated the file as requested, request your help to
   merge.</td>
-  <td class=xl65648>2022-01-26T03:30:26Z</td>
-  <td class=xl64648>2022-01-27T14:39:07Z</td>
-  <td class=xl64648>2022-01-27T13:08:27Z</td>
+  <td colspan=81 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=39 style='height:29.0pt'>
-  <td height=39 class=xl15648 style='height:29.0pt'>https://github.com/Azure/Azure-Sentinel/pull/3997</td>
-  <td class=xl15648>Update PrivilegedAccountsSigninFailureSpikes.yaml to change
-  guid,</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fix for the issue #3990 .
-  Modified the hunting query to avoid version upgrade.<br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3997" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3997</a></td>
+  <td>Update Pr<span style='display:none'>ivilegedAccountsSigninFailureSpikes.yaml
+  to change guid,</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-01-24</td>
+  <td>2022-02-0<span style='display:none'>1</span></td>
+  <td></td>
+  <td colspan=14 style='mso-ignore:colspan'>Fix for the issue #3990 . Modified
+  the hunting query to avoid version upgrade.<br>
     @aprakash13 - Please review and let me know for changes.</td>
-  <td class=xl65648>2022-01-24T21:35:11Z</td>
-  <td class=xl64648>2022-02-01T10:50:15Z</td>
-  <td class=xl64648>2022-02-01T10:47:12Z</td>
+  <td colspan=82 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3977</td>
-  <td class=xl15648>Update SQLServer_Parser.txt</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648>Fix for #3968<span style='mso-spacerun:yes'> </span></td>
-  <td class=xl65648>2022-01-21T15:45:13Z</td>
-  <td class=xl64648>2022-02-01T10:56:17Z</td>
-  <td class=xl64648>2022-02-01T10:56:17Z</td>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3977" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3977</a></td>
+  <td>Update S<span style='display:none'>QLServer_Parser.txt</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-01-21</td>
+  <td>2022-02-0<span style='display:none'>1</span></td>
+  <td></td>
+  <td colspan=2 style='mso-ignore:colspan'>Fix for #3968<span
+  style='mso-spacerun:yes'> </span></td>
+  <td colspan=94 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3976</td>
-  <td class=xl15648>Update SQLServer_Parser.txt</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648>Fixed #3969<span style='mso-spacerun:yes'> </span></td>
-  <td class=xl65648>2022-01-21T15:43:10Z</td>
-  <td class=xl64648>2022-02-01T10:42:38Z</td>
-  <td class=xl64648>2022-02-01T10:39:30Z</td>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3976" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3976</a></td>
+  <td>Update S<span style='display:none'>QLServer_Parser.txt</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-01-21</td>
+  <td>2022-02-0<span style='display:none'>1</span></td>
+  <td></td>
+  <td colspan=2 style='mso-ignore:colspan'>Fixed #3969<span
+  style='mso-spacerun:yes'> </span></td>
+  <td colspan=94 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=425 style='height:319.0pt'>
-  <td height=425 class=xl15648 style='height:319.0pt'>https://github.com/Azure/Azure-Sentinel/pull/3888</td>
-  <td class=xl15648>Adding a new workbook on Log4j hunting</td>
-  <td class=xl15648>Workbook</td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Change(s):<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3888" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3888</a></td>
+  <td>Adding a <span style='display:none'>new workbook on Log4j hunting</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-01-11</td>
+  <td>2022-01-1<span style='display:none'>9</span></td>
+  <td>Workbook</td>
+  <td colspan=87 style='mso-ignore:colspan'>Change(s):<br>
     <br>
     Azure-Sentinel/Workbooks/Log4jPostCompromiseHunting - A new workbook added
   with the following tabs<br>
-    <br>
     FindTrace - A lookup to curated IOCs across all sentinel tables.<br>
-    <br>
     SecurityNestedRecommendation - This section uses the Azure Defender
   Security Nested Recommendations data to find<br>
-    <br>
     machines vulnerable to log4j CVE-2021-44228. Log4j is an open-source Apache
   logging library that is used in many Java-<br>
-    <br>
     based applications. Security Nested Recommendations data is sent to
   Microsoft Sentinel using the continuous export<br>
-    <br>
     feature of Azure Defender<br>
-    <br>
     AzureDiagnostics - Azure Diagnostics<br>
-    <br>
     MultipleDataSources - Across multiple data sources<br>
-    <br>
     Syslog - From Syslog Sources<br>
-    <br>
-    <br>
     <br>
     Azure-Sentinel/Workbooks/WorkbooksMetadata.json - To add workbook
   metadata.<br>
     <br>
-    <br>
-    <br>
     Azure-Sentinel/Workbooks/Images/Logos - To add workbook logo.<br>
     <br>
-    <br>
-    <br>
     Azure-Sentinel/Workbooks/Images/Preview - To add preview images.</td>
-  <td class=xl65648>2022-01-11T16:36:15Z</td>
-  <td class=xl64648>2022-01-19T12:36:34Z</td>
-  <td class=xl64648>2022-01-19T12:27:32Z</td>
+  <td colspan=9 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=58 style='height:43.5pt'>
-  <td height=58 class=xl15648 style='height:43.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3863</td>
-  <td class=xl15648>Updating as per #3826</td>
-  <td class=xl15648>Solution</td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Updating as per #3826<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3863" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3863</a></td>
+  <td>Updating <span style='display:none'>as per #3826</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-01-07</td>
+  <td>2022-01-2<span style='display:none'>8</span></td>
+  <td>Solution</td>
+  <td colspan=3 style='mso-ignore:colspan'>Updating as per #3826<br>
     <br>
     </td>
-  <td class=xl65648>2022-01-07T18:01:19Z</td>
-  <td class=xl64648>2022-01-28T01:40:05Z</td>
-  <td class=xl64648>2022-01-28T01:40:05Z</td>
+  <td colspan=93 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3843</td>
-  <td class=xl15648>Update README.md</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648>Link fix for the issue logged #3839<span
-  style='mso-spacerun:yes'> </span></td>
-  <td class=xl65648>2022-01-05T20:18:37Z</td>
-  <td class=xl64648>2022-01-06T04:25:52Z</td>
-  <td class=xl64648>2022-01-05T21:02:41Z</td>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3843" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3843</a></td>
+  <td>Update RE<span style='display:none'>ADME.md</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-01-05</td>
+  <td>2022-01-0<span style='display:none'>5</span></td>
+  <td></td>
+  <td colspan=4 style='mso-ignore:colspan'>Link fix for the issue logged
+  #3839<span style='mso-spacerun:yes'> </span></td>
+  <td colspan=92 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=406 style='height:304.5pt'>
-  <td height=406 class=xl15648 style='height:304.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3826</td>
-  <td class=xl15648>Updated WAF_log4j_vulnerability.yaml</td>
-  <td class=xl15648>Detection</td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'><span
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3826" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3826</a></td>
+  <td>Updated <span style='display:none'>WAF_log4j_vulnerability.yaml</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-01-03</td>
+  <td>2022-01-0<span style='display:none'>4</span></td>
+  <td>Detection</td>
+  <td colspan=47 style='mso-ignore:colspan'><span
   style='mso-spacerun:yes'> </span><br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>Change(s):<br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>- Updated query for
   WAF_log4j_vulnerability.yaml<br>
     <br>
-    <br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>Reason for Change(s):<br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>- Expected fix for ISSUE #3814
   <br>
     <br>
-    <br>
-    <br>
-    -----------------------------------------------------------------------------------------------------------<br>
-    <br>
+   
+  -----------------------------------------------------------------------------------------------------------<br>
     <span style='mso-spacerun:yes'> </span>**Description for the PR:**<br>
-    <br>
     Extended the columns to check if the columns exists as they are custom
   columns in Azure Diagnostics.<br>
-    <br>
     This is an expected fix for<span style='mso-spacerun:yes'>  </span>#3814
   <br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
     **Testing Completed:**<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>Yes/ No :<span
   style='mso-spacerun:yes'>  </span>Yes<br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
    
   -----------------------------------------------------------------------------------------------------------</td>
-  <td class=xl65648>2022-01-03T19:21:12Z</td>
-  <td class=xl64648>2022-01-05T20:13:58Z</td>
-  <td class=xl64648>2022-01-04T09:49:53Z</td>
+  <td colspan=49 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=522 style='height:391.5pt'>
-  <td height=522 class=xl15648 style='height:391.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3812</td>
-  <td class=xl15648>Adding a new workbook on Log4j hunting</td>
-  <td class=xl15648>Workbook</td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'><span
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3812" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3812</a></td>
+  <td>Adding a <span style='display:none'>new workbook on Log4j hunting</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-12-29</td>
+  <td>2022-01-1<span style='display:none'>2</span></td>
+  <td>Workbook</td>
+  <td colspan=96 style='mso-ignore:colspan'><span
   style='mso-spacerun:yes'> </span><br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>Change(s):<br>
-    <br>
-    <br>
     <br>
     <span style='mso-spacerun:yes'>   </span>-
   Azure-Sentinel/Workbooks/Log4jPostCompromiseHunting - A new workbook added
   with the following tabs<br>
-    <br>
     <span style='mso-spacerun:yes'>      </span>FindTrace - A lookup to curated
   IOCs across all sentinel tables.<br>
-    <br>
     <span style='mso-spacerun:yes'>     </span>SecurityNestedRecommendation -
   This section uses the Azure Defender Security Nested Recommendations data to
   find <br>
-    <br>
     <span style='mso-spacerun:yes'>     </span>machines vulnerable to log4j
   CVE-2021-44228. Log4j is an open-source Apache logging library that is used
   in many Java- <br>
-    <br>
     <span style='mso-spacerun:yes'>     </span>based applications. Security
   Nested Recommendations data is sent to Microsoft Sentinel using the
   continuous export <br>
-    <br>
     <span style='mso-spacerun:yes'>     </span>feature of Azure Defender<br>
-    <br>
     <span style='mso-spacerun:yes'>    </span>AzureDiagnostics - Azure
   Diagnostics<br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>MultipleDataSources - Across
   multiple data sources <br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>Syslog - From Syslog Sources<br>
     <br>
-    <br>
-    <br>
     <span style='mso-spacerun:yes'>    </span><br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>-
   Azure-Sentinel/Workbooks/WorkbooksMetadata.json - To add workbook
   metadata.<br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>-
   Azure-Sentinel/Workbooks/Images/Logos - To add workbook logo.<br>
-    <br>
     <span style='mso-spacerun:yes'>   </span>-
   Azure-Sentinel/Workbooks/Images/Preview - To add preview images.<br>
     <br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
    
   -----------------------------------------------------------------------------------------------------------</td>
-  <td class=xl65648>2021-12-29T16:58:59Z</td>
-  <td class=xl64648>2022-01-26T03:27:00Z</td>
-  <td class=xl64648>2022-01-12T05:33:50Z</td>
  </tr>
- <tr height=251 style='height:188.5pt'>
-  <td height=251 class=xl15648 style='height:188.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3783</td>
-  <td class=xl15648>Adding Retention Tab</td>
-  <td class=xl15648>Workbook</td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Adding retention tab to
-  incorporate with export to excel option.<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3783" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3783</a></td>
+  <td>Adding Re<span style='display:none'>tention Tab</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-12-23</td>
+  <td>2022-01-0<span style='display:none'>5</span></td>
+  <td>Workbook</td>
+  <td colspan=21 style='mso-ignore:colspan'>Adding retention tab to incorporate
+  with export to excel option.<br>
     <br>
     ## Proposed Changes<br>
     <br>
-    <br>
-    <br>
     1. Display Workspace level retention.<br>
-    <br>
     2. Display Table level retention.<br>
-    <br>
     3. Both contains Export to excel functionality.<br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     </td>
-  <td class=xl65648>2021-12-23T08:39:26Z</td>
-  <td class=xl64648>2022-01-05T20:13:18Z</td>
-  <td class=xl64648>2022-01-05T19:08:27Z</td>
+  <td colspan=75 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3672</td>
-  <td class=xl15648>Fix for #3669</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648>Fix for #3669 and addition of
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3672" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3672</a></td>
+  <td>Fix for #36<span style='display:none'>69</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-12-10</td>
+  <td>2021-12-2<span style='display:none'>8</span></td>
+  <td></td>
+  <td colspan=8 style='mso-ignore:colspan'>Fix for #3669 and addition of
   AADNonInteractiveUserSignInLogs to the query.</td>
-  <td class=xl65648>2021-12-10T06:44:43Z</td>
-  <td class=xl64648>2021-12-29T14:17:00Z</td>
-  <td class=xl64648>2021-12-28T17:14:57Z</td>
+  <td colspan=88 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=174 style='height:130.5pt'>
-  <td height=174 class=xl15648 style='height:130.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3657</td>
-  <td class=xl15648>Updated Mitre Technique</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Have updated T1070 which is
-  parent of<span style='mso-spacerun:yes'>  </span>T1070.001 (Indicator Removal
-  on Host: Clear Windows Event Logs)<br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3657" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3657</a></td>
+  <td>Updated <span style='display:none'>Mitre Technique</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-12-08</td>
+  <td>2021-12-1<span style='display:none'>0</span></td>
+  <td></td>
+  <td colspan=20 style='mso-ignore:colspan'>Have updated T1070 which is parent
+  of<span style='mso-spacerun:yes'>  </span>T1070.001 (Indicator Removal on
+  Host: Clear Windows Event Logs)<br>
     Have tagged the parent for consistency.<br>
-    <br>
-    <br>
     <br>
     #3628 <br>
     <br>
-    <br>
-    <br>
     @aprakash13 - Please review.<br>
-    <br>
     Thank you.<br>
+    </td>
+  <td colspan=76 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3634" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3634</a></td>
+  <td>AADSuspe<span style='display:none'>ctedBruteForce.yaml</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-12-07</td>
+  <td>2021-12-3<span style='display:none'>0</span></td>
+  <td></td>
+  <td colspan=2 style='mso-ignore:colspan'>Testing for #3601<br>
     <br>
     </td>
-  <td class=xl65648>2021-12-08T18:24:35Z</td>
-  <td class=xl64648>2021-12-10T13:40:41Z</td>
-  <td class=xl64648>2021-12-10T09:28:14Z</td>
+  <td colspan=94 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=58 style='height:43.5pt'>
-  <td height=58 class=xl15648 style='height:43.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3634</td>
-  <td class=xl15648>AADSuspectedBruteForce.yaml</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Testing for #3601<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3600" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3600</a></td>
+  <td>Fix for #34<span style='display:none'>46</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-12-02</td>
+  <td>2022-02-0<span style='display:none'>2</span></td>
+  <td>Playbook</td>
+  <td colspan=2 style='mso-ignore:colspan'>Fix for #3446<br>
     <br>
     </td>
-  <td class=xl65648>2021-12-07T04:01:54Z</td>
-  <td class=xl64648>2021-12-30T23:39:33Z</td>
-  <td class=xl64648>2021-12-30T23:39:32Z</td>
+  <td colspan=94 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=58 style='height:43.5pt'>
-  <td height=58 class=xl15648 style='height:43.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3600</td>
-  <td class=xl15648>Fix for #3446</td>
-  <td class=xl15648>Playbook</td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fix for #3446<br>
-    <br>
-    <br>
-    <br>
-    </td>
-  <td class=xl65648>2021-12-02T05:34:41Z</td>
-  <td class=xl64648>2022-02-02T05:42:04Z</td>
-  <td class=xl64648>2022-02-02T00:10:14Z</td>
- </tr>
- <tr height=77 style='height:58.0pt'>
-  <td height=77 class=xl15648 style='height:58.0pt'>https://github.com/Azure/Azure-Sentinel/pull/3556</td>
-  <td class=xl15648>Detection : External User Added to Team and Immediately
-  Uploads File</td>
-  <td class=xl15648>Detection</td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>## Proposed Changes<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3556" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3556</a></td>
+  <td>Detection <span style='display:none'>: External User Added to Team and
+  Immediately Uploads File</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-11-26</td>
+  <td>2021-12-3<span style='display:none'>0</span></td>
+  <td>Detection</td>
+  <td colspan=16 style='mso-ignore:colspan'>## Proposed Changes<br>
     <br>
     This detection identifies an external user is added to a Team or Teams
   chat<br>
-    <br>
     <span style='mso-spacerun:yes'> </span>and within 1 minute of being added
   upload a file via the chat.</td>
-  <td class=xl65648>2021-11-26T18:38:40Z</td>
-  <td class=xl64648>2021-12-30T21:21:01Z</td>
-  <td class=xl64648>2021-12-30T21:21:01Z</td>
+  <td colspan=80 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=155 style='height:116.0pt'>
-  <td height=155 class=xl15648 style='height:116.0pt'>https://github.com/Azure/Azure-Sentinel/pull/3469</td>
-  <td class=xl15648>Moved hunting queries to workspace deployment saved
-  searches</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes # Removed actual tables
-  from hunting queries and analytic rule.<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3469" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3469</a></td>
+  <td>Moved hu<span style='display:none'>nting queries to workspace deployment
+  saved searches</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-11-17</td>
+  <td>2021-11-2<span style='display:none'>9</span></td>
+  <td></td>
+  <td colspan=29 style='mso-ignore:colspan'>Fixes # Removed actual tables from
+  hunting queries and analytic rule.<br>
     <br>
     ## Proposed Changes<br>
-    <br>
-    <br>
     <br>
     <span style='mso-spacerun:yes'>  </span>- Moved Solorigate Inventory check
   hunting query to workspace.json<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>- Removed actual tables from Moved
   Solorigate Inventory<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>- Removed actual tables from
   Solorigate Network Beacon Analytic rule<br>
-    <br>
     </td>
-  <td class=xl65648>2021-11-17T20:39:28Z</td>
-  <td class=xl64648>2021-12-10T13:43:08Z</td>
-  <td class=xl64648>2021-11-29T17:25:16Z</td>
+  <td colspan=67 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=251 style='height:188.5pt'>
-  <td height=251 class=xl15648 style='height:188.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3323</td>
-  <td class=xl15648>[Proofpoint detection] - Fixes on TI match and lookback
-  time.</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes #3137 <br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3323" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3323</a></td>
+  <td>[Proofpoi<span style='display:none'>nt detection] - Fixes on TI match and
+  lookback time.</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-10-27</td>
+  <td>2021-12-0<span style='display:none'>2</span></td>
+  <td></td>
+  <td colspan=35 style='mso-ignore:colspan'>Fixes #3137 <br>
     <br>
     ## Proposed Changes<br>
-    <br>
-    <br>
     <br>
     <span style='mso-spacerun:yes'>  </span>- Filtered Inactive IoCs.<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>- Checked possible IP address
   fields.<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>- Taken only the last copy of the
   IoC from TI table<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>- Updated the time frame for IOC
   look back from 30days to 14days as per Analytics Rule design.<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span><br>
-    <br>
     @oshezaf , @Amitbergman, @ShaniFelig - Do we need to update the version
   number as well for these fixes !<br>
-    <br>
     </td>
-  <td class=xl65648>2021-10-27T15:42:44Z</td>
-  <td class=xl64648>2021-12-10T13:43:38Z</td>
-  <td class=xl64648>2021-12-02T03:13:52Z</td>
+  <td colspan=61 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=309 style='height:232.0pt'>
-  <td height=309 class=xl15648 style='height:232.0pt'>https://github.com/Azure/Azure-Sentinel/pull/3295</td>
-  <td class=xl15648>Update ASimFullDeployment.json</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes #3279 <br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3295" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3295</a></td>
+  <td>Update AS<span style='display:none'>imFullDeployment.json</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-10-25</td>
+  <td>2021-10-2<span style='display:none'>7</span></td>
+  <td></td>
+  <td colspan=33 style='mso-ignore:colspan'>Fixes #3279 <br>
     <br>
     ## Proposed Changes<br>
-    <br>
-    <br>
     <br>
     <span style='mso-spacerun:yes'>  </span>-<span style='mso-spacerun:yes'> 
   </span>Updated the link from <br>
-    <br>
-    https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Parsers/ASimAuthentication/ARM/FullDeploymentAuthentication.json<br>
-    <br>
-    <br>
+   
+  https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Parsers/ASimAuthentication/ARM/FullDeploymentAuthentication.json<br>
     <br>
     to <br>
-    <br>
    
   https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Parsers/ASimAuthentication/FullDeploymentAuthentication.json<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     </td>
-  <td class=xl65648>2021-10-25T15:50:54Z</td>
-  <td class=xl64648>2022-01-11T20:04:20Z</td>
-  <td class=xl64648>2021-10-27T05:13:23Z</td>
+  <td colspan=63 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=116 style='height:87.0pt'>
-  <td height=116 class=xl15648 style='height:87.0pt'>https://github.com/Azure/Azure-Sentinel/pull/3294</td>
-  <td class=xl15648>Update FullDeploymentAuthentication.json</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixed #3278 <br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3294" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3294</a></td>
+  <td>Update Fu<span style='display:none'>llDeploymentAuthentication.json</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-10-25</td>
+  <td>2021-10-2<span style='display:none'>7</span></td>
+  <td></td>
+  <td colspan=8 style='mso-ignore:colspan'>Fixed #3278 <br>
     <br>
     ## Proposed Changes<br>
-    <br>
-    <br>
     <br>
     <span style='mso-spacerun:yes'>  </span>- Updated the links as
   mentioned.<br>
-    <br>
     </td>
-  <td class=xl65648>2021-10-25T15:33:04Z</td>
-  <td class=xl64648>2022-01-11T20:04:14Z</td>
-  <td class=xl64648>2021-10-27T05:00:26Z</td>
+  <td colspan=88 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=135 style='height:101.5pt'>
-  <td height=135 class=xl15648 style='height:101.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3276</td>
-  <td class=xl15648>Update readme.md</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes #<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3276" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3276</a></td>
+  <td>Update re<span style='display:none'>adme.md</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-10-22</td>
+  <td>2021-11-1<span style='display:none'>7</span></td>
+  <td></td>
+  <td colspan=7 style='mso-ignore:colspan'>Fixes #<br>
     <br>
     https://github.com/Azure/Azure-Sentinel/issues/3154<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     </td>
-  <td class=xl65648>2021-10-22T17:50:49Z</td>
-  <td class=xl64648>2022-01-11T20:04:13Z</td>
-  <td class=xl64648>2021-11-17T18:25:40Z</td>
+  <td colspan=89 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=174 style='height:130.5pt'>
-  <td height=174 class=xl15648 style='height:130.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3166</td>
-  <td class=xl15648>Fixed playbook links</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes #<br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3166" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3166</a></td>
+  <td>Fixed play<span style='display:none'>book links</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-10-04</td>
+  <td>2021-10-0<span style='display:none'>4</span></td>
+  <td></td>
+  <td colspan=13 style='mso-ignore:colspan'>Fixes #<br>
     Issues -<span style='mso-spacerun:yes'>  </span>#3124 <br>
     <br>
-    <br>
-    <br>
     ## Proposed Changes<br>
-    <br>
-    <br>
     <br>
     <span style='mso-spacerun:yes'>  </span>- Link for Deploy to Azure
   fixed.<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     @sreedharande<span style='mso-spacerun:yes'>  </span>- please have a
   review.</td>
-  <td class=xl65648>2021-10-04T16:45:01Z</td>
-  <td class=xl64648>2022-01-11T20:04:12Z</td>
-  <td class=xl64648>2021-10-04T20:30:07Z</td>
+  <td colspan=83 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=135 style='height:101.5pt'>
-  <td height=135 class=xl15648 style='height:101.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3118</td>
-  <td class=xl15648>Added a time chart as Sign-in Trend over Time</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes #<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3118" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3118</a></td>
+  <td>Added a ti<span style='display:none'>me chart as Sign-in Trend over Time</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-09-27</td>
+  <td>2021-12-0<span style='display:none'>8</span></td>
+  <td></td>
+  <td colspan=17 style='mso-ignore:colspan'>Fixes #<br>
     <br>
     ## Proposed Changes<br>
-    <br>
-    <br>
     <br>
     Added this time chart to display Sign-in Trend over Time.<br>
-    <br>
     This has a TimeBrush enabled for the rest of the widgets to be filtered
   based on that.</td>
-  <td class=xl65648>2021-09-27T19:27:43Z</td>
-  <td class=xl64648>2021-12-08T13:03:15Z</td>
-  <td class=xl64648>2021-12-08T13:00:24Z</td>
+  <td colspan=79 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=155 style='height:116.0pt'>
-  <td height=155 class=xl15648 style='height:116.0pt'>https://github.com/Azure/Azure-Sentinel/pull/3084</td>
-  <td class=xl15648>Logged<span style='mso-spacerun:yes'>  </span>By Service
-  Trend</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Added a widget to show the
-  trend based on Logged by Service.<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3084" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3084</a></td>
+  <td>Logged<span style='mso-spacerun:yes'>  </span>B<span style='display:none'>y
+  Service Trend</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-09-20</td>
+  <td>2021-09-2<span style='display:none'>4</span></td>
+  <td></td>
+  <td colspan=16 style='mso-ignore:colspan'>Added a widget to show the trend
+  based on Logged by Service.<br>
     <br>
     ## Proposed Changes<br>
-    <br>
-    <br>
     <br>
     <span style='mso-spacerun:yes'>  </span>- Added a widget to show the trend
   based on Logged by Service.<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     </td>
-  <td class=xl65648>2021-09-20T19:29:24Z</td>
-  <td class=xl64648>2022-01-11T20:04:10Z</td>
-  <td class=xl64648>2021-09-24T10:47:29Z</td>
+  <td colspan=80 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=251 style='height:188.5pt'>
-  <td height=251 class=xl15648 style='height:188.5pt'>https://github.com/Azure/Azure-Sentinel/pull/3083</td>
-  <td class=xl15648>Updated the correct time conversion.</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'><br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3083" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3083</a></td>
+  <td>Updated t<span style='display:none'>he correct time conversion.</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-09-20</td>
+  <td>2021-09-2<span style='display:none'>4</span></td>
+  <td></td>
+  <td colspan=36 style='mso-ignore:colspan'><br>
     <br>
     Fixes #<br>
-    <br>
     Case 1: The Custom formatting is to show in seconds hence updated the query
   to do the same.<br>
-    <br>
     Case 2: Second is targeted against minutes to show the delay hence
   updated.<br>
     <br>
-    <br>
-    <br>
     ## Proposed Changes<br>
-    <br>
-    <br>
-    <br>
     <br>
     <br>
     <span style='mso-spacerun:yes'>  </span>- The Custom formatting is to show
   in seconds hence updated the query to do the same.<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<span style='mso-spacerun:yes'> 
   </span>Second is targeted against minutes to show the delay hence updated.</td>
-  <td class=xl65648>2021-09-20T17:34:14Z</td>
-  <td class=xl64648>2021-09-24T14:10:51Z</td>
-  <td class=xl64648>2021-09-24T10:47:06Z</td>
+  <td colspan=60 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=155 style='height:116.0pt'>
-  <td height=155 class=xl15648 style='height:116.0pt'>https://github.com/Azure/Azure-Sentinel/pull/3082</td>
-  <td class=xl15648>Update WorkbooksMetadata.json</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes #<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3082" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3082</a></td>
+  <td>Update W<span style='display:none'>orkbooksMetadata.json</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-09-20</td>
+  <td>2021-09-2<span style='display:none'>0</span></td>
+  <td></td>
+  <td colspan=5 style='mso-ignore:colspan'>Fixes #<br>
     <br>
     ## Proposed Changes<br>
     <br>
-    <br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     </td>
-  <td class=xl65648>2021-09-20T17:01:53Z</td>
-  <td class=xl64648>2021-09-20T17:04:51Z</td>
-  <td class=xl64648>2021-09-20T17:04:36Z</td>
+  <td colspan=91 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=271 style='height:203.0pt'>
-  <td height=271 class=xl15648 style='height:203.0pt'>https://github.com/Azure/Azure-Sentinel/pull/3081</td>
-  <td class=xl15648>Removing the parameters filters from the workbook</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Removing the top parameters
-  from the workbook which are not applicable here<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/3081" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/3081</a></td>
+  <td>Removing <span style='display:none'>the parameters filters from the
+  workbook</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-09-20</td>
+  <td>2021-09-2<span style='display:none'>4</span></td>
+  <td></td>
+  <td colspan=17 style='mso-ignore:colspan'>Removing the top parameters from
+  the workbook which are not applicable here<br>
     <br>
     1. Subscription <br>
-    <br>
     2. Workspace<br>
-    <br>
     3. Timerange<br>
-    <br>
-    <br>
     <br>
     Fixes #<br>
     <br>
-    <br>
-    <br>
     ## Proposed Changes<br>
     <br>
-    <br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     </td>
-  <td class=xl65648>2021-09-20T17:00:21Z</td>
-  <td class=xl64648>2021-09-24T14:10:41Z</td>
-  <td class=xl64648>2021-09-24T10:54:06Z</td>
+  <td colspan=79 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl15648 style='height:14.5pt'>https://github.com/Azure/Azure-Sentinel/pull/2684</td>
-  <td class=xl15648>Updated second time parameters correctly.</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl15648></td>
-  <td class=xl65648>2021-07-15T14:17:39Z</td>
-  <td class=xl64648>2021-09-20T17:36:21Z</td>
-  <td class=xl64648>2021-09-20T17:36:05Z</td>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/2684" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/2684</a></td>
+  <td>Updated s<span style='display:none'>econd time parameters correctly.</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-07-15</td>
+  <td>2021-09-2<span style='display:none'>0</span></td>
+  <td></td>
+  <td></td>
+  <td colspan=95 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=77 style='height:58.0pt'>
-  <td height=77 class=xl15648 style='height:58.0pt'>https://github.com/Azure/Azure-Sentinel/pull/2420</td>
-  <td class=xl15648>Removing second to minute conversion as selected unit is in
-  second</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes #<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/2420" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/2420</a></td>
+  <td>Removing <span style='display:none'>second to minute conversion as
+  selected unit is in second</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-06-07</td>
+  <td>2021-07-0<span style='display:none'>2</span></td>
+  <td></td>
+  <td colspan=8 style='mso-ignore:colspan'>Fixes #<br>
     <br>
     Removing second to minute conversion as selected unit is in second<br>
-    <br>
     </td>
-  <td class=xl65648>2021-06-07T16:12:35Z</td>
-  <td class=xl64648>2021-07-02T06:57:31Z</td>
-  <td class=xl64648>2021-07-02T06:57:30Z</td>
+  <td colspan=88 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=174 style='height:130.5pt'>
-  <td height=174 class=xl15648 style='height:130.5pt'>https://github.com/Azure/Azure-Sentinel/pull/2419</td>
-  <td class=xl15648>Removing second to minute conversion as selected unit is in
-  second</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes #<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/2419" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/2419</a></td>
+  <td>Removing <span style='display:none'>second to minute conversion as
+  selected unit is in second</span></td>
+  <td>closed</td>
+  <td class=xl66>2021-06-07</td>
+  <td>2021-06-0<span style='display:none'>7</span></td>
+  <td></td>
+  <td colspan=12 style='mso-ignore:colspan'>Fixes #<br>
     <br>
     ## Proposed Changes<br>
-    <br>
-    <br>
     <br>
     <span style='mso-spacerun:yes'>  </span>- Removing second to minute
   conversion (/60) as selected unit is in second (unit : 24)<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     </td>
-  <td class=xl65648>2021-06-07T15:44:58Z</td>
-  <td class=xl64648>2021-06-07T16:09:28Z</td>
-  <td class=xl64648>2021-06-07T16:09:28Z</td>
+  <td colspan=84 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=97 style='height:72.5pt'>
-  <td height=97 class=xl15648 style='height:72.5pt'>https://github.com/Azure/Azure-Sentinel/pull/1068</td>
-  <td class=xl15648>Create MultipleTeamsDeletes.yaml</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'><span
-  style='mso-spacerun:yes'>  </span>This detection flags the occurrences of
-  deleting multiple teams within an hour.<br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/1068" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/1068</a></td>
+  <td>Create M<span style='display:none'>ultipleTeamsDeletes.yaml</span></td>
+  <td>closed</td>
+  <td class=xl66>2020-09-13</td>
+  <td>2020-09-1<span style='display:none'>7</span></td>
+  <td></td>
+  <td colspan=22 style='mso-ignore:colspan'><span style='mso-spacerun:yes'> 
+  </span>This detection flags the occurrences of deleting multiple teams within
+  an hour.<br>
     This data is a part of Office 365 Connector in Azure Sentinel.<br>
-    <br>
     More details: https://docs.microsoft.com/en-us/azure/sentinel/connect-office-365'<br>
-    <br>
     </td>
-  <td class=xl65648>2020-09-13T05:39:54Z</td>
-  <td class=xl64648>2022-01-11T20:03:58Z</td>
-  <td class=xl64648>2020-09-17T19:33:20Z</td>
+  <td colspan=74 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=97 style='height:72.5pt'>
-  <td height=97 class=xl15648 style='height:72.5pt'>https://github.com/Azure/Azure-Sentinel/pull/1067</td>
-  <td class=xl15648>Create ExternalUserAddedRemovedInTeams.yaml</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>This detection flags the
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/1067" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/1067</a></td>
+  <td>Create Ext<span style='display:none'>ernalUserAddedRemovedInTeams.yaml</span></td>
+  <td>closed</td>
+  <td class=xl66>2020-09-13</td>
+  <td>2020-10-0<span style='display:none'>8</span></td>
+  <td></td>
+  <td colspan=26 style='mso-ignore:colspan'>This detection flags the
   occurrences of external user accounts that are added to a Team and then
   removed within<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>one hour.This data is a part of
   Office 365 Connector in Azure Sentinel.<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>More details:
   https://docs.microsoft.com/en-us/azure/sentinel/connect-office-365</td>
-  <td class=xl65648>2020-09-13T04:52:21Z</td>
-  <td class=xl64648>2022-01-11T20:04:02Z</td>
-  <td class=xl64648>2020-10-08T18:46:21Z</td>
+  <td colspan=70 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=174 style='height:130.5pt'>
-  <td height=174 class=xl15648 style='height:130.5pt'>https://github.com/Azure/Azure-Sentinel/pull/796</td>
-  <td class=xl15648>Updated AzureActivity.json</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Reason : Making Caller pill
-  similar to ResourceGroup to get data from Log Analytics workspace instead of
-  resource group.This will be enable users with limited permission only to
-  workspace to deploy the workbook, instead the resource group.<br>
-    <br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/796" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/796</a></td>
+  <td>Updated <span style='display:none'>AzureActivity.json</span></td>
+  <td>closed</td>
+  <td class=xl66>2020-06-26</td>
+  <td>2020-09-2<span style='display:none'>4</span></td>
+  <td></td>
+  <td colspan=35 style='mso-ignore:colspan'>Reason : Making Caller pill similar
+  to ResourceGroup to get data from Log Analytics workspace instead of resource
+  group.This will be enable users with limited permission only to workspace to
+  deploy the workbook, instead the resource group.<br>
     <br>
    
   ![image](https://user-images.githubusercontent.com/20562985/86025760-36ecf080-ba4c-11ea-8e71-5dd9d4b2b39e.png)<br>
     <br>
-    <br>
-    <br>
     </td>
-  <td class=xl65648>2020-06-26T17:11:51Z</td>
-  <td class=xl64648>2020-09-25T03:08:06Z</td>
-  <td class=xl64648>2020-09-24T18:38:39Z</td>
+  <td colspan=61 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=193 style='height:145.0pt'>
-  <td height=193 class=xl15648 style='height:145.0pt'>https://github.com/Azure/Azure-Sentinel/pull/623</td>
-  <td class=xl15648>Updated Host entity mapping</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Fixes #<br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/623" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/623</a></td>
+  <td>Updated <span style='display:none'>Host entity mapping</span></td>
+  <td>closed</td>
+  <td class=xl66>2020-04-27</td>
+  <td>2020-04-2<span style='display:none'>9</span></td>
+  <td></td>
+  <td colspan=24 style='mso-ignore:colspan'>Fixes #<br>
     Updated Host entity mapping by replacing WorkstationName with Computer as
   WorkstationName<span style='mso-spacerun:yes'>  </span>comes as empty in some
   cases so Host Entity mapping could not capture the related entity
   information.<br>
-    <br>
     ## Proposed Changes<br>
     <br>
-    <br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     </td>
-  <td class=xl65648>2020-04-27T09:37:01Z</td>
-  <td class=xl64648>2020-04-29T19:50:36Z</td>
-  <td class=xl64648>2020-04-29T19:50:36Z</td>
+  <td colspan=72 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=232 style='height:174.0pt'>
-  <td height=232 class=xl15648 style='height:174.0pt'>https://github.com/Azure/Azure-Sentinel/pull/573</td>
-  <td class=xl15648>Create UserAccountEnabledDisabled_10m.yaml</td>
-  <td class=xl15648></td>
-  <td class=xl15648>closed</td>
-  <td class=xl63648 width=503 style='width:378pt'>Identifies when a user
-  account is enabled and then disabled within 10 minutes. This can be an
-  indication of compromise and<br>
-    <br>
+ <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/573" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/573</a></td>
+  <td>Create Us<span style='display:none'>erAccountEnabledDisabled_10m.yaml</span></td>
+  <td>closed</td>
+  <td class=xl66>2020-04-05</td>
+  <td>2020-04-0<span style='display:none'>6</span></td>
+  <td></td>
+  <td colspan=21 style='mso-ignore:colspan'>Identifies when a user account is
+  enabled and then disabled within 10 minutes. This can be an indication of
+  compromise and<br>
     <span style='mso-spacerun:yes'>  </span>an adversary attempting to hide in
   the noise.<br>
     <br>
-    <br>
-    <br>
     Fixes #<br>
-    <br>
-    <br>
     <br>
     ## Proposed Changes<br>
     <br>
-    <br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     <span style='mso-spacerun:yes'>  </span>-<br>
-    <br>
     </td>
-  <td class=xl65648>2020-04-05T09:58:46Z</td>
-  <td class=xl64648>2020-04-06T21:10:38Z</td>
-  <td class=xl64648>2020-04-06T21:10:38Z</td>
+  <td colspan=75 style='mso-ignore:colspan'></td>
  </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=327 style='width:246pt'></td>
-  <td width=503 style='width:378pt'></td>
-  <td width=96 style='width:72pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=503 style='width:378pt'></td>
-  <td width=141 style='width:106pt'></td>
-  <td width=141 style='width:106pt'></td>
-  <td width=141 style='width:106pt'></td>
- </tr>
- <![endif]>
 </table>
-
 
 
 
