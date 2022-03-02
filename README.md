@@ -62,7 +62,7 @@
   <td>open</td>
   <td class=xl66>2022-03-01</td>
   <td></td>
-  <td></td>
+  <td>Workbook, Solution</td>
   <td colspan=56 style='mso-ignore:colspan'>Azure-Sentinel/Solutions/Teams/Workbooks/MicrosoftTeams.json-
   A new workbook added with the following tabs<br>
     Overview - An overview of Microsoft Teams logs in OfficeActivity.<br>
