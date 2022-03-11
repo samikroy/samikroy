@@ -12,6 +12,11 @@
 <!--## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/samikroy?template=classic&config.timezone=Asia%2FCalcutta)-->
 
+## 🔔 Upcoming 
+
+![Roy_-_Advance_your_Deep_investigations_with_Jupyter_Notebooks_In_Microsoft_Sentinel_314495](https://user-images.githubusercontent.com/20562985/157909713-f9d7e896-6850-43d5-bbfa-a2467ea90486.jpeg)
+
+
 ## 🔔 Community Badges
 
 - [Cloud Security Product Champion - Year 2022](https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0?source=linked_in_profile)
