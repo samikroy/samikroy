@@ -5,7 +5,9 @@
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🔭 I’m currently working at [Open Systems](https://www.open-systems.com/) as Lead Cloud Developer
+- 🔭 I’m currently working at [Open Systems](https://www.open-systems.com/) as Lead Cloud Developer and a community enthusiast.
+
+[Click to view my repositoroes](https://github.com/samikroy?tab=repositories)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)
 
@@ -17,7 +19,7 @@
 <!--## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/samikroy?template=classic&config.timezone=Asia%2FCalcutta)-->
 
-## 🔔 Upcoming 
+## 🔔 Upcoming Community Webinar
 
 ![Roy_-_Advance_your_Deep_investigations_with_Jupyter_Notebooks_In_Microsoft_Sentinel_314495](https://user-images.githubusercontent.com/20562985/157909713-f9d7e896-6850-43d5-bbfa-a2467ea90486.jpeg)
 
@@ -69,9 +71,9 @@
   <td height=21 class=xl65 style='height:15.5pt'><a
   href="https://github.com/Azure/Azure-Sentinel/pull/4289" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4289</a></td>
   <td>Adding a <span style='display:none'>new workbook for Teams solution.</span></td>
-  <td>open</td>
+  <td>closed</td>
   <td class=xl66>2022-03-01</td>
-  <td></td>
+  <td>2022-03-04</td>
   <td>Workbook, Solution</td>
   <td colspan=56 style='mso-ignore:colspan'>Azure-Sentinel/Solutions/Teams/Workbooks/MicrosoftTeams.json-
   A new workbook added with the following tabs<br>
@@ -94,9 +96,9 @@
   href="https://github.com/Azure/Azure-Sentinel/pull/4267" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4267</a></td>
   <td>Updated S<span style='display:none'>harePointAndOneDrive.json to fix
   #4245</span></td>
-  <td>open</td>
+  <td>closed</td>
   <td class=xl66>2022-02-25</td>
-  <td></td>
+  <td>2022-03-09</td>
   <td></td>
   <td colspan=5 style='mso-ignore:colspan'>Updated SharePointAndOneDrive.json
   to fix #4245<span style='mso-spacerun:yes'> </span></td>
@@ -107,9 +109,9 @@
   href="https://github.com/Azure/Azure-Sentinel/pull/4266" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4266</a></td>
   <td>Update Az<span style='display:none'>urePortalSigninfromanotherAzureTenant.yaml
   to fix #4262</span></td>
-  <td>open</td>
+  <td>closed</td>
   <td class=xl66>2022-02-25</td>
-  <td></td>
+  <td>2022-03-09</td>
   <td></td>
   <td colspan=7 style='mso-ignore:colspan'>Update
   AzurePortalSigninfromanotherAzureTenant.yaml to fix #4262<span
