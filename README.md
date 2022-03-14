@@ -3,12 +3,12 @@
 <!--
 **samikroy/samikroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<!--## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🔭 I’m currently working at [Open Systems](https://www.open-systems.com/) as Lead Cloud Developer and a community enthusiast.
 
 [Click to view my repositoroes](https://github.com/samikroy?tab=repositories)
-
+-->
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samikroy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
