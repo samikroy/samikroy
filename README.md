@@ -26,6 +26,7 @@
 
 ## 🔔 Community Badges
 
+- [Cloud Security Product Influencer - Year 2022](https://www.credly.com/badges/3c4dc3f3-36dd-40cf-bc94-e2d0071cd872)
 - [Cloud Security Product Champion - Year 2022](https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0?source=linked_in_profile)
 - [Product Influencer - Year 2021](https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9?source=linked_in_profile)
 - [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
