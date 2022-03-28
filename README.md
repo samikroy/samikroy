@@ -21,7 +21,7 @@
 
 ## 🔔 Upcoming Community Webinar
 
-![Roy_-_Advance_your_Deep_investigations_with_Jupyter_Notebooks_In_Microsoft_Sentinel_314495](https://user-images.githubusercontent.com/20562985/157909713-f9d7e896-6850-43d5-bbfa-a2467ea90486.jpeg)
+![Roy_-_Advance_Your_Deep_Investigations_with_Jupyter_Notebooks_In_Microsoft_Sentinel_314495 (1)](https://user-images.githubusercontent.com/20562985/160415776-2b154ec3-1836-467f-a706-d581cf96280c.jpeg)
 
 
 ## 🔔 Community Badges
