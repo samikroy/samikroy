@@ -26,7 +26,9 @@
 
 ## 🔔 Community Badges
 
-- [Cloud Security Product Influencer - Year 2022](https://www.credly.com/badges/3c4dc3f3-36dd-40cf-bc94-e2d0071cd872)
+- [L5 Microsoft Sentinel Black Belt - Year 2022](https://www.credly.com/badges/d58642b4-46fc-4456-80e4-0b1bdde8936e)
+- [L3 Microsoft Sentinel Influencer - Year 2022](https://www.credly.com/badges/2f5ce318-2041-479c-8335-fcd0cb8a7835)
+- [L2 Cloud Security Product Influencer - Year 2022](https://www.credly.com/badges/3c4dc3f3-36dd-40cf-bc94-e2d0071cd872)
 - [Cloud Security Product Champion - Year 2022](https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0?source=linked_in_profile)
 - [Product Influencer - Year 2021](https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9?source=linked_in_profile)
 - [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
