@@ -24,6 +24,9 @@
 ![Roy_-_Advance_Your_Deep_Investigations_with_Jupyter_Notebooks_In_Microsoft_Sentinel_314495 (1)](https://user-images.githubusercontent.com/20562985/160415776-2b154ec3-1836-467f-a706-d581cf96280c.jpeg)
 
 
+![image](https://user-images.githubusercontent.com/20562985/166306944-9e834af4-9204-4237-812b-fc2159878562.png)
+
+
 ## 🔔 Community Badges
 
 - [L5 Microsoft Sentinel Black Belt - Year 2022](https://www.credly.com/badges/d58642b4-46fc-4456-80e4-0b1bdde8936e)
