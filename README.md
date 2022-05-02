@@ -24,7 +24,8 @@
 ![Roy_-_Advance_Your_Deep_Investigations_with_Jupyter_Notebooks_In_Microsoft_Sentinel_314495 (1)](https://user-images.githubusercontent.com/20562985/160415776-2b154ec3-1836-467f-a706-d581cf96280c.jpeg)
 
 
-![image](https://user-images.githubusercontent.com/20562985/166306944-9e834af4-9204-4237-812b-fc2159878562.png)
+![image](https://user-images.githubusercontent.com/20562985/166307124-aa71c393-2a1a-4a63-a887-06dc29273729.png)
+
 
 
 ## 🔔 Community Badges
@@ -73,6 +74,27 @@
   <td width=69 style='width:52pt'>Closed<span style='mso-spacerun:yes'> </span></td>
   <td width=69 style='width:52pt'>Labels</td>
   <td width=69 style='width:52pt'>Body</td>
+ </tr>
+   <tr height=21 style='height:15.5pt'>
+  <td height=21 class=xl65 style='height:15.5pt'><a
+  href="https://github.com/Azure/Azure-Sentinel/pull/4623" target="_parent">https://github.com/Azure/Azure-Sentinel/pull/4623</a></td>
+  <td>Adding a <span style='display:none'>Created a new workbook for MDE Advance Hunting</span></td>
+  <td>closed</td>
+  <td class=xl66>2022-03-01</td>
+  <td>2022-04-20</td>
+  <td>Workbook</td>
+  <td colspan=56 style='mso-ignore:colspan'>
+  A new workbook added with the following tabs<br>
+   Overview	Device	Network	File
+MDE Tables Last Data Received	Source of the AV detections	Internet Connected Devices	FileActivityCount per Device
+Daily Data Flow on MDE Tables	Get stats on ASR audit events	Count By Machine Group	Count by InitiatingProcessAccountUpn
+Device Heartbeat	Get stats on ASR blocks	Count By Network Adaptor	
+Device where files are copied to USB Drive	AV Detections with USB Disk Drive	TimeSeries on Network Activity	
+Device Internet Connectivity Status	List files copied to USB mounted drives	Top 10 RemoteUrl accessed over TimeRange	
+Device Count by DNS Suffix		Tor Clients	
+Device Azure AD Join status			
+Device ClientVersion			</td>
+  <td colspan=40 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=21 style='height:15.5pt'>
   <td height=21 class=xl65 style='height:15.5pt'><a
