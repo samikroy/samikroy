@@ -18,11 +18,61 @@
 
 <!--## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/samikroy?template=classic&config.timezone=Asia%2FCalcutta)-->
-## 🔔 Upcoming Community Webinar
-<img src="https://user-images.githubusercontent.com/20562985/167171793-de912760-9389-487b-be51-d71566668529.png" width="250" height="250">
-
+## 🔔 Community Webinar
+<table>
+   <tr>
+      <td width=30%>
+<img src="https://user-images.githubusercontent.com/20562985/167171793-de912760-9389-487b-be51-d71566668529.png" width="300" height="300">
+         </td>
+      <td>
+         <ul>
+            <li>
+         <a href="https://www.m365virtualmarathon.com/speakers.html">Advance Your Deep Investigations with Jupyter Notebooks In Microsoft Sentinel - May, 2022</a>
+          </li>
+            <li>
+         <a href="https://www.youtube.com/watch?v=kRteEUmx41o">Get Smart with Data ingestion & Retention in Microsoft Sentinel at Microsoft 365 ,Power Platform & Cloud Security UG- India - Nov, 2021</a>
+          </li>
+              <li>
+         <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India - Oct, 2021</a>
+          </li>
+              <li>
+         <a href="https://www.m365virtualmarathon.com/schedule.html">Make sense of Logs with Azure Wokbooks at Microsoft 365 Virtual Marathon - May 2021</a>
+          </li>
+            <li>
+         <a href="https://www.m365virtualmarathon.com/schedule.html">Zero to Hero in Azure Sentinel at Microsoft 365 Virtual Marathon - May 2021</a>
+          </li>
+            <li>
+               <a href="https://www.youtube.com/watch?v=2T0Pr4eOd_I&t=2s">Hunting with Jupyter Notebooks in Azure Sentinel  at 2020twentycon - June, 2020</a>
+               </li>
+            <li>
+               Remediate and Secure your Organization with Azure Sentinel, the new ERA SIEM  at 2020twentycon - May, 2020
+               </li>
+             <li>
+               Talk to Power BI in Natural Language at Global Power Platform Bootcamp - Feb, 2020
+               </li>
+            <li>
+               Color your Chatbot at Azure Vidyapeeth - June, 2019
+               </li>
+             <li>
+               ABC of AzureFunctions at Azure Vidyapeeth - May, 2019
+               </li>
+              <li>
+               Tailor Azure Loganalytics with Kustoqueries at Azure Vidyapeeth - June, 2019
+               </li>
+              <li>
+                Empower Your Site Provisioning With Site Scripts And Site Designs For Modern Sharepoint Sites at C# Corner - March, 2019
+               </li>
+            <li>
+                PowerShell Script with AI-Infused Automation at SharePoint Saturday Hyderabad - March, 2019
+               </li>
+            </ul>
+         </td>
+</tr>
+   </table>
+   
 ## 🔔 Community Badges
 
+- [Top 15 Threat Hunter by Microsoft Sentinel - Year 2022 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
 - [L5 Microsoft Sentinel Black Belt - Year 2022](https://www.credly.com/badges/d58642b4-46fc-4456-80e4-0b1bdde8936e)
 - [L4 Cloud Security Rockstar Team - Year 2022](https://www.credly.com/badges/b629b838-3c79-41a8-930f-39c38f668012)
 - [L3 Microsoft Sentinel Influencer - Year 2022](https://www.credly.com/badges/2f5ce318-2041-479c-8335-fcd0cb8a7835)
@@ -30,7 +80,7 @@
 - [Cloud Security Product Champion - Year 2022](https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0?source=linked_in_profile)
 - [Product Influencer - Year 2021](https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9?source=linked_in_profile)
 - [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
-- [Top 15 Threat Hunter by Microsoft Sentinel - Year 2022 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
+
    
 ## 🔔 Community Webinars
 
