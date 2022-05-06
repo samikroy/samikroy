@@ -21,11 +21,7 @@
 
 ## 🔔 Upcoming Community Webinar
 
-![Roy_-_Advance_Your_Deep_Investigations_with_Jupyter_Notebooks_In_Microsoft_Sentinel_314495 (1)](https://user-images.githubusercontent.com/20562985/160415776-2b154ec3-1836-467f-a706-d581cf96280c.jpeg)
-
-
-![image](https://user-images.githubusercontent.com/20562985/166307124-aa71c393-2a1a-4a63-a887-06dc29273729.png)
-
+![Samik Roy](https://user-images.githubusercontent.com/20562985/167171793-de912760-9389-487b-be51-d71566668529.png)
 
 
 ## 🔔 Community Badges
@@ -41,6 +37,7 @@
    
 ## 🔔 Community Webinars
 
+   - [Advance Your Deep Investigations with Jupyter Notebooks In Microsoft Sentinel - May, 2022](https://www.m365virtualmarathon.com/speakers.html)
    - [Get Smart with Data ingestion & Retention in Microsoft Sentinel at Microsoft 365 ,Power Platform & Cloud Security UG- India - Nov, 2021](https://www.youtube.com/watch?v=kRteEUmx41o)
    - [Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India - Oct, 2021](https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s)
    - [Make sense of Logs with Azure Wokbooks at Microsoft 365 Virtual Marathon - May 2021](https://www.m365virtualmarathon.com/schedule.html)
