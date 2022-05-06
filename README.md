@@ -18,10 +18,8 @@
 
 <!--## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/samikroy?template=classic&config.timezone=Asia%2FCalcutta)-->
-
 ## 🔔 Upcoming Community Webinar
-<img src="https://user-images.githubusercontent.com/20562985/167171793-de912760-9389-487b-be51-d71566668529.png" width="200" height="200">
-
+<img src="https://user-images.githubusercontent.com/20562985/167171793-de912760-9389-487b-be51-d71566668529.png" width="250" height="250">
 
 ## 🔔 Community Badges
 
