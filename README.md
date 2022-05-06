@@ -20,8 +20,7 @@
 ![Metrics](https://metrics.lecoq.io/samikroy?template=classic&config.timezone=Asia%2FCalcutta)-->
 
 ## 🔔 Upcoming Community Webinar
-
-![Samik Roy](https://user-images.githubusercontent.com/20562985/167171793-de912760-9389-487b-be51-d71566668529.png)
+<img src="https://user-images.githubusercontent.com/20562985/167171793-de912760-9389-487b-be51-d71566668529.png" width="200" height="200">
 
 
 ## 🔔 Community Badges
