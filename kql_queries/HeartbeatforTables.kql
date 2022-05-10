@@ -1,0 +1,17 @@
+let AllTables = (union withsource=_TableName *
+| where TimeGenerated {TimeRange:query}
+| where Type !="CommonSecurityLog"
+| summarize arg_max(TimeGenerated,*) by Type
+| extend LastLogReceivedAgo =datetime_diff("second",now(),TimeGenerated)
+| project Type, LastLogReceivedAgo);
+let CommonSecLogs = (
+CommonSecurityLog
+| where TimeGenerated {TimeRange:query}
+| summarize arg_max(TimeGenerated,*) by DeviceVendor
+| extend Type = DeviceVendor
+| extend LastLogReceivedAgo =datetime_diff("second",now(),TimeGenerated)
+| project Type, LastLogReceivedAgo
+);
+AllTables
+| union CommonSecLogs
+| order by LastLogReceivedAgo desc
