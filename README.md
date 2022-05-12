@@ -21,11 +21,11 @@
 ## 🔔 Community Webinars
 <table>
    <tr>
-      <td width=30%>
-<img src="https://user-images.githubusercontent.com/20562985/167171793-de912760-9389-487b-be51-d71566668529.png" width="300" height="300">
-         </td>
       <td>
          <ul>
+            <li>
+             <a href="https://bengaluru.globalazure.in/#/">Tell stories with Azure Workbook - May, 2022</a>
+          </li>
             <li>
          <a href="https://www.m365virtualmarathon.com/speakers.html">Advance Your Deep Investigations with Jupyter Notebooks In Microsoft Sentinel - May, 2022</a>
           </li>
