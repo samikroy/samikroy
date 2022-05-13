@@ -157,23 +157,37 @@
       </tr>
    <tr>
       <td>
+         <ul>
+            <li>
       <a href='https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md'>Top 15 Threat Hunter by Microsoft Sentinel</a>
+               </li>
+            <li>
          <a href='https://www.credly.com/badges/d58642b4-46fc-4456-80e4-0b1bdde8936e'>L5 Microsoft Sentinel Black Belt</a>
+               </li>
+            <li>
           <a href='https://www.credly.com/badges/b629b838-3c79-41a8-930f-39c38f668012'>L4 Cloud Security Rockstar Team</a>
+               </li>
+            <li>
           <a href='https://www.credly.com/badges/2f5ce318-2041-479c-8335-fcd0cb8a7835'>L3 Microsoft Sentinel Influencer</a>
+               </li>
+            <li>
           <a href='https://www.credly.com/badges/3c4dc3f3-36dd-40cf-bc94-e2d0071cd872'>L2 Cloud Security Product Influencer</a>
+               </li>
+            <li>
           <a href='https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0'>L1 Cloud Security Product Champion</a>
+               </li>
+            </ul>
       </td>
       </tr>
    <tr>
-      <td>2021</td>
-      <td>
+      <td>2021</td></tr>
+      <tr><td>
           <a href='https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9'>Product Influencer</a>
           <a href='https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023'>Product Advocate</a>
          </td>
       </tr>
-   
-   </tavke>
+   </table>
+   <!--
       <td>2022</td>
       </tr>
    <tr>
@@ -219,7 +233,7 @@
       <td>2021</td>
       </tr>
    </table>
-
+-->
 <!--
 - [Top 15 Threat Hunter by Microsoft Sentinel - Year 2022 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
 - [L5 Microsoft Sentinel Black Belt - Year 2022](https://www.credly.com/badges/d58642b4-46fc-4456-80e4-0b1bdde8936e)
