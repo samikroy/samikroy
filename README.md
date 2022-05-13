@@ -203,6 +203,7 @@
       </tr>
    </table>
 
+<!--
 - [Top 15 Threat Hunter by Microsoft Sentinel - Year 2022 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
 - [L5 Microsoft Sentinel Black Belt - Year 2022](https://www.credly.com/badges/d58642b4-46fc-4456-80e4-0b1bdde8936e)
 - [L4 Cloud Security Rockstar Team - Year 2022](https://www.credly.com/badges/b629b838-3c79-41a8-930f-39c38f668012)
@@ -211,7 +212,7 @@
 - [Cloud Security Product Champion - Year 2022](https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0?source=linked_in_profile)
 - [Product Influencer - Year 2021](https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9?source=linked_in_profile)
 - [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
-
+-->
     
 ## 🔔 Cᴏᴍᴍᴜɴɪᴛʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs
 
