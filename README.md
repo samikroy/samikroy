@@ -182,8 +182,14 @@
    <tr>
       <td>2021</td></tr>
       <tr><td>
+         <ul>
+            <li>
           <a href='https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9'>Product Influencer</a>
+               </li>
+            <li>
           <a href='https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023'>Product Advocate</a>
+               </li>
+            </ul>
          </td>
       </tr>
    </table>
