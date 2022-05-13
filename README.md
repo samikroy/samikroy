@@ -253,7 +253,8 @@
 
     
 ## 🔔 Community Contributions
-[Click to view in detail](https://github.com/Azure/Azure-Sentinel/pulls?q=is%3Apr+author%3Asamikroy)
+
+<a href= 'https://github.com/Azure/Azure-Sentinel/pulls?q=is%3Apr+author%3Asamikroy' target = '_blank' > Click to view in detail</a>
 
 
 <table>
