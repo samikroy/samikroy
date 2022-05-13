@@ -1,14 +1,14 @@
 ## 👋 🌎 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)
+<!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)-->
 
 
-## 🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅
+## 
 
 <table>
    <tr>
       <th>#</th>
-      <th>𝕋𝕆ℙ𝕀ℂ</th>
+      <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
    <tr>
@@ -251,15 +251,15 @@
 - [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
 -->
     
-## 🔔 Cᴏᴍᴍᴜɴɪᴛʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs
-
+## 
+<!--
 <a href= 'https://github.com/Azure/Azure-Sentinel/pulls?q=is%3Apr+author%3Asamikroy' target = '_blank' > Click to view in detail</a>
-
+-->
 
 <table>
    <tr>
       <th> # PR</th> 
-      <th> Title </th>
+      <th> 🔔 Cᴏᴍᴍᴜɴɪᴛʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs </th>
       <th> Last Modified </th>
       <th> Status </th>
       </tr>
