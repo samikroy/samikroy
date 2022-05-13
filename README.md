@@ -6,13 +6,13 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)
 
 
-## 🔔 Community Webinars
+## 🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅
 
 <table>
    <tr>
-      <th>Number</th>
-      <th>Talks / Webinars</th>
-      <th>Time</th>
+      <th>#</th>
+      <th>𝕋𝕆ℙ𝕀ℂ</th>
+      <th>⏳</th>
    </tr>
    <tr>
       <td>15</td>
@@ -149,7 +149,7 @@
  </table>
 
    
-## 🔔 Community Badges
+## 🔔 Cᴏᴍᴍᴜɴɪᴛʏ Bᴀᴅɢᴇs
 
 - [Top 15 Threat Hunter by Microsoft Sentinel - Year 2022 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
 - [L5 Microsoft Sentinel Black Belt - Year 2022](https://www.credly.com/badges/d58642b4-46fc-4456-80e4-0b1bdde8936e)
@@ -161,7 +161,7 @@
 - [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
 
     
-## 🔔 Community Contributions
+## 🔔 Cᴏᴍᴍᴜɴɪᴛʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs
 
 <a href= 'https://github.com/Azure/Azure-Sentinel/pulls?q=is%3Apr+author%3Asamikroy' target = '_blank' > Click to view in detail</a>
 
@@ -233,7 +233,7 @@
 
 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 📫 How to reach me:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 me on Linkedin !
 
 [<img src="https://raw.githubusercontent.com/samikroy/samikroy/master/linkedin.png" height="40em" align="center" alt="Follow Samik on LinkedIn" title="Follow Samik on LinkedIn"/>](https://linkedin.com/in/roysamik)
