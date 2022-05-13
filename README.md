@@ -1,4 +1,4 @@
-## Hello 🌎 👋
+## 👋 🌎 
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)
 
