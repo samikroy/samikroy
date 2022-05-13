@@ -24,10 +24,12 @@
 
 <table>
    <tr>
+      <th>Number</th>
       <th>Talks / Webinars</th>
       <th>Time</th>
    </tr>
    <tr>
+      <td>15</td>
       <td>
             <a href="https://bengaluru.globalazure.in/#/">Tell stories with Azure Workbook</a>
        </td>
@@ -37,6 +39,7 @@
     </tr>
     </tr>
    <tr>
+   <td>14</td>
       <td>
             <a href="https://www.m365virtualmarathon.com/speakers.html">Advance Your Deep Investigations with Jupyter Notebooks In Microsoft Sentinel</a>
        </td>
@@ -45,6 +48,7 @@
       </td>
     </tr>
     <tr>
+   <td>13</td>
       <td>
              <a href="https://www.youtube.com/watch?v=kRteEUmx41o">Get Smart with Data ingestion & Retention in Microsoft Sentinel at Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
@@ -53,6 +57,7 @@
       </td>
     </tr>
     <tr>
+   <td>12</td>
       <td>
            <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
@@ -61,6 +66,7 @@
       </td>
     </tr>
     <tr>
+   <td>11</td>
       <td>
         <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
@@ -69,6 +75,7 @@
       </td>
     </tr>
     <tr>
+   <td>10</td>
       <td>
       <a href="https://www.m365virtualmarathon.com/schedule.html">Make sense of Logs with Azure Wokbooks at Microsoft 365 Virtual Marathon</a>
        </td>
@@ -77,6 +84,7 @@
       </td>
     </tr>
     <tr>
+   <td>9</td>
       <td>
          <a href="https://www.m365virtualmarathon.com/schedule.html">Zero to Hero in Azure Sentinel at Microsoft 365 Virtual Marathon</a>
        </td>
@@ -85,6 +93,7 @@
       </td>
     </tr>
     <tr>
+   <td>8</td>
       <td>
           <a href="https://www.youtube.com/watch?v=2T0Pr4eOd_I&t=2s">Hunting with Jupyter Notebooks in Azure Sentinel  at 2020twentycon</a>
        </td>
@@ -93,6 +102,7 @@
       </td>
     </tr>
      <tr>
+   <td>7</td>
       <td>
           Remediate and Secure your Organization with Azure Sentinel, the new ERA SIEM  at 2020twentycon
        </td>
@@ -101,6 +111,7 @@
       </td>
     </tr>
     <tr>
+   <td>6</td>
       <td>
           Talk to Power BI in Natural Language at Global Power Platform Bootcamp
        </td>
@@ -109,6 +120,7 @@
       </td>
     </tr>
      <tr>
+   <td>5</td>
       <td>
              Color your Chatbot at Azure Vidyapeeth
        </td>
@@ -117,6 +129,7 @@
       </td>
     </tr>
     <tr>
+   <td>4</td>
       <td>
               ABC of AzureFunctions at Azure Vidyapeeth
        </td>
@@ -125,6 +138,7 @@
       </td>
     </tr>
      <tr>
+   <td>3</td>
       <td>
                Tailor Azure Loganalytics with Kustoqueries at Azure Vidyapeeth
        </td>
@@ -133,6 +147,7 @@
       </td>
     </tr>
          <tr>
+   <td>2</td>
       <td>
                Empower Your Site Provisioning With Site Scripts And Site Designs For Modern Sharepoint Sites at C# Corner 
        </td>
@@ -141,6 +156,7 @@
       </td>
     </tr>
       <tr>
+   <td>1</td>
       <td>
                PowerShell Script with AI-Infused Automation at SharePoint Saturday Hyderabad
        </td>
@@ -203,6 +219,7 @@
 </tr>
    </table>
    -->
+   
 ## 🔔 Community Badges
 
 - [Top 15 Threat Hunter by Microsoft Sentinel - Year 2022 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
