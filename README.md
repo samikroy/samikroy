@@ -185,7 +185,7 @@
       </tr>
     <tr>
          <td>
-      <a href='https://www.credly.com/badges/3c4dc3f3-36dd-40cf-bc94-e2d0071cd872'>Cloud Security Product Champion</a>
+      <a href='https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0'>L1 Cloud Security Product Champion</a>
       </td>
       <td>2022</td>
       </tr>
