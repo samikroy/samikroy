@@ -178,7 +178,7 @@
    Created a new workbook for MDE Advance Hunting</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4587</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4587 ' target='_blank'>Updated default name from Isolate-MDEMachine to Unisolate-MDEMachine</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4546</td><td> ᴺᴿᵀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4546 ' target='_blank'>Created NRT_Creation_of_Expensive_Computes_in_Azure.yaml</a></td><td>closed</td><td>closed</td></tr>
-<tr><td>4545</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4545 ' target='_blank'>Created NRT_PrivlegedRoleAssignedOutsidePIM.yaml</a></td><td>closed</td><td>closed</td></tr>
+<tr><td>4545</td><td> ᴺᴿᵀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4545 ' target='_blank'>Created NRT_PrivlegedRoleAssignedOutsidePIM.yaml</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4543</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4543 ' target='_blank'>Possible Fix for #4541</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4525</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4525 ' target='_blank'>Possible fix for the issue #4516</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4332</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4332 ' target='_blank'>Created an automation to keep service tags updated.</a></td><td>open</td><td>open</td></tr>
@@ -190,7 +190,7 @@
 <tr><td>4127</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4127 ' target='_blank'>Fixing typo for #4123</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4116</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4116 ' target='_blank'>Update readme.md to update reader to responder to ensure comment updates.</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4098</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4098 ' target='_blank'>Updated WSLMalwareCorrelation.yaml for #4054</a></td><td>closed</td><td>closed</td></tr>
-<tr><td>4089</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4089 ' target='_blank'>Create CiscoFirepower.json</a></td><td>closed</td><td>closed</td></tr>
+<tr><td>4089</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4089 ' target='_blank'>Create CiscoFirepower.json</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4077</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4077 ' target='_blank'>Possible Fix for #4052</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4063</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4063 ' target='_blank'>Fix for #4060</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>4012</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4012 ' target='_blank'>Updated README.md for #4011</a></td><td>closed</td><td>closed</td></tr>
@@ -223,11 +223,11 @@
 <tr><td>2684</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/2684 ' target='_blank'>Updated second time parameters correctly.</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>2420</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/2420 ' target='_blank'>Removing second to minute conversion as selected unit is in second</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>2419</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/2419 ' target='_blank'>Removing second to minute conversion as selected unit is in second</a></td><td>closed</td><td>closed</td></tr>
-<tr><td>1068</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/1068 ' target='_blank'>Create MultipleTeamsDeletes.yaml</a></td><td>closed</td><td>closed</td></tr>
-<tr><td>1067</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/1067 ' target='_blank'>Create ExternalUserAddedRemovedInTeams.yaml</a></td><td>closed</td><td>closed</td></tr>
+<tr><td>1068</td><td>ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/1068 ' target='_blank'>Create MultipleTeamsDeletes.yaml</a></td><td>closed</td><td>closed</td></tr>
+<tr><td>1067</td><td>ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/1067 ' target='_blank'>Create ExternalUserAddedRemovedInTeams.yaml</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>796</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/796 ' target='_blank'>Updated AzureActivity.json</a></td><td>closed</td><td>closed</td></tr>
 <tr><td>623</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/623 ' target='_blank'>Updated Host entity mapping</a></td><td>closed</td><td>closed</td></tr>
-<tr><td>573</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/573 ' target='_blank'>Create UserAccountEnabledDisabled_10m.yaml</a></td><td>closed</td><td>closed</td></tr>
+<tr><td>573</td><td>ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/573 ' target='_blank'>Create UserAccountEnabledDisabled_10m.yaml</a></td><td>closed</td><td>closed</td></tr>
 </table>
 
 
