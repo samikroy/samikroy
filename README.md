@@ -1,8 +1,5 @@
 ## Hello 🌎 👋
 
-
-<img style = "{ border-radius: 25px; background-position: left top; background-repeat: repeat; padding: 20px; width: 200px; height: 200px;}" src="https://raw.githubusercontent.com/samikroy/samikroy/master/images/running-galloping.gif" />
-
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)
 
 
