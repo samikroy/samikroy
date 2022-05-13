@@ -1,5 +1,7 @@
 ## Hello 🌎 👋
 
+
+
 <!--
 **samikroy/samikroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -19,7 +21,138 @@
 <!--## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/samikroy?template=classic&config.timezone=Asia%2FCalcutta)-->
 ## 🔔 Community Webinars
+
 <table>
+   <tr>
+      <th>Talks / Webinars</th>
+      <th>Time</th>
+   </tr>
+   <tr>
+      <td>
+            <a href="https://bengaluru.globalazure.in/#/">Tell stories with Azure Workbook</a>
+       </td>
+      <td>
+          May, 2022
+      </td>
+    </tr>
+    </tr>
+   <tr>
+      <td>
+            <a href="https://www.m365virtualmarathon.com/speakers.html">Advance Your Deep Investigations with Jupyter Notebooks In Microsoft Sentinel</a>
+       </td>
+      <td>
+          May, 2022
+      </td>
+    </tr>
+    <tr>
+      <td>
+             <a href="https://www.youtube.com/watch?v=kRteEUmx41o">Get Smart with Data ingestion & Retention in Microsoft Sentinel at Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
+       </td>
+      <td>
+         Nov, 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
+           <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
+       </td>
+      <td>
+          Oct, 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
+       </td>
+      <td>
+          Oct, 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://www.m365virtualmarathon.com/schedule.html">Make sense of Logs with Azure Wokbooks at Microsoft 365 Virtual Marathon</a>
+       </td>
+      <td>
+          May 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://www.m365virtualmarathon.com/schedule.html">Zero to Hero in Azure Sentinel at Microsoft 365 Virtual Marathon</a>
+       </td>
+      <td>
+         May 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
+          <a href="https://www.youtube.com/watch?v=2T0Pr4eOd_I&t=2s">Hunting with Jupyter Notebooks in Azure Sentinel  at 2020twentycon</a>
+       </td>
+      <td>
+         June, 2020
+      </td>
+    </tr>
+     <tr>
+      <td>
+          Remediate and Secure your Organization with Azure Sentinel, the new ERA SIEM  at 2020twentycon
+       </td>
+      <td>
+         May, 2020
+      </td>
+    </tr>
+    <tr>
+      <td>
+          Talk to Power BI in Natural Language at Global Power Platform Bootcamp
+       </td>
+      <td>
+         Feb, 2020
+      </td>
+    </tr>
+     <tr>
+      <td>
+             Color your Chatbot at Azure Vidyapeeth
+       </td>
+      <td>
+        June, 2019
+      </td>
+    </tr>
+    <tr>
+      <td>
+              ABC of AzureFunctions at Azure Vidyapeeth
+       </td>
+      <td>
+        May, 2019
+      </td>
+    </tr>
+     <tr>
+      <td>
+               Tailor Azure Loganalytics with Kustoqueries at Azure Vidyapeeth
+       </td>
+      <td>
+        June, 2019
+      </td>
+    </tr>
+         <tr>
+      <td>
+               Empower Your Site Provisioning With Site Scripts And Site Designs For Modern Sharepoint Sites at C# Corner 
+       </td>
+      <td>
+        March, 2019
+      </td>
+    </tr>
+      <tr>
+      <td>
+               PowerShell Script with AI-Infused Automation at SharePoint Saturday Hyderabad
+       </td>
+      <td>
+        March, 2019
+      </td>
+    </tr>
+ </table>
+<!--
+<table>
+   
+   
    <tr>
       <td>
          <ul>
@@ -69,7 +202,7 @@
          </td>
 </tr>
    </table>
-   
+   -->
 ## 🔔 Community Badges
 
 - [Top 15 Threat Hunter by Microsoft Sentinel - Year 2022 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
@@ -81,7 +214,7 @@
 - [Product Influencer - Year 2021](https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9?source=linked_in_profile)
 - [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
 
-   
+<!--   
 ## 🔔 Community Webinars
 
    - [Advance Your Deep Investigations with Jupyter Notebooks In Microsoft Sentinel - May, 2022](https://www.m365virtualmarathon.com/speakers.html)
@@ -98,7 +231,7 @@
    - Empower Your Site Provisioning With Site Scripts And Site Designs For Modern Sharepoint Sites at C# Corner - March, 2019
    - PowerShell Script with AI-Infused Automation at SharePoint Saturday Hyderabad - March, 2019
    
-    
+    -->
 ## 🔔 Community Contributions
 [Click to view in detail](https://github.com/Azure/Azure-Sentinel/pulls?q=is%3Apr+author%3Asamikroy)
 
