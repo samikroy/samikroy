@@ -38,7 +38,7 @@
     <tr>
    <td>12</td>
       <td>
-           <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
+           <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">Zero to Hero in Azure Sentinel, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
       <td>
           Oct, 2021
