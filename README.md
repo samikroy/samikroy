@@ -12,6 +12,11 @@
       <th>⏳ 🏃 </th>
    </tr>
    <tr>
+      <td>16</td>
+      <td><a href="https://www.meetup.com/BangaloreITProUG/events/286130517/#:~:text=Make%20your%20Data%20meaningful%20With%20Azure%20Workbook.">Make your Data meaningful With Azure Workbook</a></td>
+      <td>Upcoming</td>
+    </tr>
+   <tr>
       <td>15</td>
       <td><a href="https://bengaluru.globalazure.in/#/">Tell stories with Azure Workbook</a></td>
       <td>May, 2022</td>
