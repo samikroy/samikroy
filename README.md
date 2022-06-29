@@ -6,6 +6,15 @@
 ## 
 
 <table>
+    <th>🔔 IMPORTANT REPOS</th>
+   <tr>
+      <td><a href="https://github.com/samikroy/kql-store"> KQL STORE </a></td>
+       </tr> <tr>
+      <td><a href="https://github.com/samikroy/the-tor-project"> THE TOR PROJECT </a></td>
+      </tr>
+   </table>
+
+<table>
    <tr>
       <th>#</th>
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
