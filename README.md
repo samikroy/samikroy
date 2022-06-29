@@ -11,6 +11,17 @@
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
+    <tr>
+      <td>18</td>
+      <td>Fireup a workbook from Scratch </td>
+      <td>Upcoming</td>
+    </tr>
+   <tr>
+      <td>17</td>
+      <td><a href="https://www.youtube.com/watch?v=SENjwji0RXc">🎙️ Future of Tech, innovation in the cloud, & benefits of community engagement. </a></td>
+      <td>June, 2022</td>
+    </tr>
+   <tr>
    <tr>
       <td>16</td>
       <td><a href="https://www.meetup.com/BangaloreITProUG/events/286130517/#:~:text=Make%20your%20Data%20meaningful%20With%20Azure%20Workbook.">Make your Data meaningful With Azure Workbook</a></td>
@@ -267,6 +278,14 @@
       <th> 🔔 Cᴏᴍᴍᴜɴɪᴛʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs </th>
       <th> Last Modified </th>
       <th> Status </th>
+                        </tr>
+ <tr><td>5422</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/5422 ' target='_blank'>Updated a live link for parser deployment for ProofPoint POD</a></td><td>2022-06-16</td><td>closed</td></tr>
+      </tr>
+                  </tr>
+ <tr><td>5325</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5325 ' target='_blank'>Create a workbook for Microsoft Defender for Identity</a></td><td>2022-06-23</td><td>closed</td></tr>
+      </tr>
+            </tr>
+ <tr><td>5283</td><td> ᴺᴿᵀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5283 ' target='_blank'>created new rule for NRT Azure DevOps Audit Stream Disabled</a></td><td>2022-06-13</td><td>closed</td></tr>
       </tr>
  <tr><td>4679</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4679 ' target='_blank'>created new rule for NRT Authentication Methods Changed for VIP Users</a></td><td>2022-05-12</td><td>open</td></tr>
 <tr><td>4623</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4623 ' target='_blank'>Created a new workbook for MDE Advance Hunting</a></td><td>2022-04-18</td><td>closed</td></tr>
