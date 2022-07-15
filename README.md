@@ -21,6 +21,16 @@
       <th>⏳ 🏃 </th>
    </tr>
     <tr>
+      <td>20</td>
+      <td><a href="https://www.youtube.com/watch?v=3_yRuplWfhk&t=827s">AZ-104: Microsoft Azure Administrator | Bootcamp | Azure Storage</a></td>
+      <td>July, 2022</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td><a href="https://www.youtube.com/watch?v=jg54U8yBxGM">Microsoft Defender Advanced Hunting </a></td>
+      <td>July, 2022</td>
+    </tr>
+    <tr>
       <td>18</td>
       <td>Fireup a workbook from Scratch </td>
       <td>Upcoming</td>
