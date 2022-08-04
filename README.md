@@ -302,6 +302,10 @@
       <th> 🔔 Cᴏᴍᴍᴜɴɪᴛʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs </th>
       <th> Last Modified </th>
       <th> Status </th>
+                               </tr>
+ <tr><td>5422</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5555 ' target='_blank'>Added a workbook for Microroft Defender For Endpoint Solution</a></td><td>2022-07-26</td><td>closed</td></tr>
+      </tr>
+                  </tr>
                         </tr>
  <tr><td>5422</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/5422 ' target='_blank'>Updated a live link for parser deployment for ProofPoint POD</a></td><td>2022-06-16</td><td>closed</td></tr>
       </tr>
