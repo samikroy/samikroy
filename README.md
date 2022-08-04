@@ -20,6 +20,11 @@
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
+   <tr>
+      <td>21</td>
+      <td><a href="https://www.youtube.com/watch?v=An3LH1GLtiA&t=174s">AZ-104: Microsoft Azure Administrator | Bootcamp | Virtual Networking & Network Traffic Management</a></td>
+      <td>July, 2022</td>
+    </tr>
     <tr>
       <td>20</td>
       <td><a href="https://www.youtube.com/watch?v=3_yRuplWfhk&t=827s">AZ-104: Microsoft Azure Administrator | Bootcamp | Azure Storage</a></td>
