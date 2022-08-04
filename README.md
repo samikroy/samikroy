@@ -38,7 +38,7 @@
     <tr>
       <td>18</td>
       <td>Fireup a workbook from Scratch </td>
-      <td>Upcoming</td>
+      <td>July, 2022</td>
     </tr>
    <tr>
       <td>17</td>
