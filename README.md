@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>18</td>
-      <td>Fireup a workbook from Scratch </td>
+      <td><a href="https://twitter.com/MSCSUG/status/1542588243904008197">Fireup a workbook from Scratch </a></td>
       <td>July, 2022</td>
     </tr>
    <tr>
