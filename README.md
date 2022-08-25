@@ -199,7 +199,7 @@
       <td>
          <ul>
             <li>
-      <a href='https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md'>Top 15 Threat Hunter by Microsoft Sentinel</a>
+      <a href='https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md'>Top 8 Threat Hunter by Microsoft Sentinel</a>
                </li>
             <li>
          <a href='https://www.credly.com/badges/d58642b4-46fc-4456-80e4-0b1bdde8936e'>L5 Microsoft Sentinel Black Belt</a>
