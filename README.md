@@ -21,6 +21,11 @@
       <th>⏳ 🏃 </th>
    </tr>
    <tr>
+      <td>22</td>
+      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6967475269729210368/">Terraform IaC - A Journey towards Continuous Delivery</a></td>
+      <td>July, 2022</td>
+    </tr>
+   <tr>
       <td>21</td>
       <td><a href="https://www.youtube.com/watch?v=An3LH1GLtiA&t=174s">AZ-104: Microsoft Azure Administrator | Bootcamp | Virtual Networking & Network Traffic Management</a></td>
       <td>July, 2022</td>
