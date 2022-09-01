@@ -23,7 +23,7 @@
    <tr>
       <td>22</td>
       <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6967475269729210368/">Terraform IaC - A Journey towards Continuous Delivery</a></td>
-      <td>July, 2022</td>
+      <td>August, 2022</td>
     </tr>
    <tr>
       <td>21</td>
