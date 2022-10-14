@@ -7,6 +7,9 @@
 
 <table>
     <th>🔔 IMPORTANT REPOS</th>
+    <tr>
+      <td><a href="https://github.com/samikroy/D4IOT"> ⭐ D4IOT </a></td>
+       </tr> 
    <tr>
       <td><a href="https://github.com/samikroy/kql-store"> KQL STORE </a></td>
        </tr> <tr>
