@@ -12,8 +12,34 @@
        </tr> 
    <tr>
       <td><a href="https://github.com/samikroy/kql-store"> KQL STORE </a></td>
-       </tr> <tr>
+       </tr> 
+    <tr>
       <td><a href="https://github.com/samikroy/the-tor-project"> THE TOR PROJECT </a></td>
+      </tr>
+   </table>
+   
+   <table>
+    <th>🔔 IMPORTANT ARTICLES</th>
+    <tr>
+      <td><a href="https://github.com/samikroy/D4IOT](https://www.linkedin.com/pulse/send-email-create-incident-sentinel-samik-roy/">Send Email To Create Incident in Sentinel</a></td>
+       </tr> 
+   <tr>
+      <td><a href="https://github.com/samikroy/kql-store](https://www.linkedin.com/pulse/syslog-workbook-microsoft-sentinel-samik-roy"> Syslog Workbook for Microsoft Sentinel </a></td>
+       </tr> 
+    <tr>
+      <td><a href="https://github.com/samikroy/the-tor-project](https://www.linkedin.com/pulse/get-aws-ip-ranges-from-sentinel-samik-roy"> Get AWS IP Ranges From Sentinel </a></td>
+      </tr>
+        <tr>
+      <td><a href="https://www.linkedin.com/pulse/reduce-noise-from-aad-non-interactive-signins-samik-roy"> Reduce Noise from AAD Non Interactive SignIns </a></td>
+      </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/pulse/microsoft-defender-identity-workbook-sentinel-samik-roy/"> Microsoft Defender for Identity Workbook for Microsoft Sentinel </a></td>
+      </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/pulse/refer-gcp-ip-ranges-kql-microsoft-sentinel-samik-roy"> Refer GCP IP Ranges in KQL & Microsoft Sentinel </a></td>
+      </tr>
+        <tr>
+      <td><a href="https://www.linkedin.com/pulse/tor-ip-list-microsoft-sentinel-samik-roy/"> The TOR IP List for Microsoft Sentinel </a></td>
       </tr>
    </table>
 
