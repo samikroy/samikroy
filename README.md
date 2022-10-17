@@ -23,6 +23,12 @@
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
+    <tr>
+      <td>23</td>
+      <td>INDIA CLOUD SECURITY SUMMIT - Setup & Operationalize your Cloud SIEM at Scale (Upcoming)</td>
+      <td>Oct, 2022</td>
+    </tr>
+   <tr>
    <tr>
       <td>22</td>
       <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6967475269729210368/">Terraform IaC - A Journey towards Continuous Delivery</a></td>
