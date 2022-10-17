@@ -316,6 +316,12 @@
       <th> 🔔 Cᴏᴍᴍᴜɴɪᴛʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs </th>
       <th> Last Modified </th>
       <th> Status </th>
+             </tr>
+ <tr><td>6235</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/6235' target='_blank'>Added a workbook for Health Workbook</a></td><td>2022-09-29</td><td>closed</td></tr>
+      </tr>
+       </tr>
+ <tr><td>5422</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5427' target='_blank'>Added a workbook for Syslog Overview</a></td><td>2022-09-06</td><td>closed</td></tr>
+      </tr>
                                </tr>
  <tr><td>5422</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5555 ' target='_blank'>Added a workbook for Microroft Defender For Endpoint Solution</a></td><td>2022-07-26</td><td>closed</td></tr>
       </tr>
