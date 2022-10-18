@@ -4,7 +4,9 @@
 
 
 ## 
-
+<table>
+<tr>
+<td>
 <table>
     <th>🔔 IMPORTANT REPOS</th>
     <tr>
@@ -17,7 +19,8 @@
       <td><a href="https://github.com/samikroy/the-tor-project"> THE TOR PROJECT </a></td>
       </tr>
    </table>
-   
+   </td>
+   <td>
    <table>
     <th>🔔 IMPORTANT ARTICLES</th>
     <tr>
@@ -42,7 +45,9 @@
       <td><a href="https://www.linkedin.com/pulse/tor-ip-list-microsoft-sentinel-samik-roy/"> The TOR IP List for Microsoft Sentinel </a></td>
       </tr>
    </table>
-
+</td>
+   </tr>
+   </table>
 <table>
    <tr>
       <th>#</th>
