@@ -56,7 +56,7 @@
    </tr>
     <tr>
       <td>23</td>
-      <td>INDIA CLOUD SECURITY SUMMIT - Setup & Operationalize your Cloud SIEM at Scale (Upcoming)</td>
+      <td><a href="https://www.youtube.com/watch?v=gKsdOdvQaL4">INDIA CLOUD SECURITY SUMMIT - Setup & Operationalize your Cloud SIEM at Scale</a></td>
       <td>Oct, 2022</td>
     </tr>
    <tr>
