@@ -23,11 +23,14 @@
    <td>
    <table>
     <th>🔔 IMPORTANT ARTICLES</th>
-    <tr>
-      <td><a href="https://github.com/samikroy/D4IOT](https://www.linkedin.com/pulse/send-email-create-incident-sentinel-samik-roy/">Send Email To Create Incident in Sentinel</a></td>
+         <tr>
+      <td><a href="https://www.linkedin.com/pulse/send-email-create-incident-sentinel-samik-roy/](https://www.linkedin.com/pulse/export-twitter-ti-feed-sentinel-samik-roy">Export Twitter TI Feed to Sentinel</a></td>
+       </tr>
+       <tr>
+      <td><a href="https://www.linkedin.com/pulse/send-email-create-incident-sentinel-samik-roy/">Send Email To Create Incident in Sentinel</a></td>
        </tr> 
    <tr>
-      <td><a href="https://github.com/samikroy/kql-store](https://www.linkedin.com/pulse/syslog-workbook-microsoft-sentinel-samik-roy"> Syslog Workbook for Microsoft Sentinel </a></td>
+      <td><a href="https://www.linkedin.com/pulse/syslog-workbook-microsoft-sentinel-samik-roy"> Syslog Workbook for Microsoft Sentinel </a></td>
        </tr> 
     <tr>
       <td><a href="https://github.com/samikroy/the-tor-project](https://www.linkedin.com/pulse/get-aws-ip-ranges-from-sentinel-samik-roy"> Get AWS IP Ranges From Sentinel </a></td>
@@ -54,6 +57,11 @@
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
+    <tr>
+      <td>23</td>
+      <td><a href="https://www.m365event.com">M365 SATURDAY BANGALORE 2022 - Advance Hunting with Defender Portal</a></td>
+      <td>Upcoming</td>
+    </tr>
     <tr>
       <td>23</td>
       <td><a href="https://www.youtube.com/watch?v=gKsdOdvQaL4">INDIA CLOUD SECURITY SUMMIT - Setup & Operationalize your Cloud SIEM at Scale</a></td>
