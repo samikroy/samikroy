@@ -68,6 +68,6 @@ https://github.com/Azure/Azure-Sentinel/blob/master/Detections/SecurityEvent/gte
 Contact Info
 <hr>
 
-<a href="https://github.com/samikroy">Github Profile</a>
+<a href="https://github.com/samikroy" target= "_blank">Github Profile</a>
 <br>
-<a href="https://www.linkedin.com/in/roysamik/">Linkedin Profile</a>
+<a href="https://www.linkedin.com/in/roysamik/" target= "_blank">Linkedin Profile</a>
