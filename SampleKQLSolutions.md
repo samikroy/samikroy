@@ -21,11 +21,13 @@ or EventData contains "set and service"
 
 Additional Thoughts
 
+- [Optional]Save the querty as function for reusability in rules & workbooks etc.
 - Configure MMA / AMA Agents to Security Events (All Events) to the desired Log Analytics Workspace.
 - Configure the analytics with the desired fequency.
 - Confire Entity Mapping
 - Configure Alert Name as {{UserPrincipalName}} to easier identification of alerts.
 ![image](https://user-images.githubusercontent.com/20562985/202419439-d9d74e4a-da51-461c-968a-ff8a17ebae1b.png)
+
 
 <hr>
 
@@ -49,11 +51,17 @@ SecurityEvent
 ```
 Additional Thoughts
 
+- [Optional]Save the querty as function for reusability in rules & workbooks etc.
 - Configure MMA / AMA Agents to Security Events (All Events) to the desired Log Analytics Workspace.
 - Configure the analytics with the desired fequency. E.g. - Run every 10 min with 10 min of lookback data.
 - Confire Entity Mapping
 - Configure Alert Name as {{UserPrincipalName}} to easier identification of alerts.
 ![image](https://user-images.githubusercontent.com/20562985/202419439-d9d74e4a-da51-461c-968a-ff8a17ebae1b.png)
+
+** | parse EventData with * "<Data Name=\"Status\">" Status "</Data>" * 
+can be optimized with **SubStatus** like the below link.
+
+https://github.com/Azure/Azure-Sentinel/blob/master/Detections/SecurityEvent/gte_6_FailedLogons_10m.yaml
 
 
 <hr>
