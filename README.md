@@ -24,7 +24,7 @@
    <table>
     <th>🔔 IMPORTANT ARTICLES</th>
          <tr>
-      <td><a href="https://www.linkedin.com/pulse/send-email-create-incident-sentinel-samik-roy/](https://www.linkedin.com/pulse/export-twitter-ti-feed-sentinel-samik-roy">Export Twitter TI Feed to Sentinel</a></td>
+      <td><a href="https://www.linkedin.com/pulse/export-twitter-ti-feed-sentinel-samik-roy">Export Twitter TI Feed to Sentinel</a></td>
        </tr>
        <tr>
       <td><a href="https://www.linkedin.com/pulse/send-email-create-incident-sentinel-samik-roy/">Send Email To Create Incident in Sentinel</a></td>
