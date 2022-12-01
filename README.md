@@ -69,7 +69,7 @@
     <tr>
       <td>24</td>
       <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:7001392748956196864/">🎙️ Security Loopholes in the Architecture Practices in Cloud Computing</a></td>
-      <td>Upcoming</td>
+      <td>Nov, 2022</td>
     </tr>
     <tr>
       <td>23</td>
