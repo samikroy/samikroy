@@ -1,7 +1,9 @@
 ## 👋 🌎 
 
 <!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)-->
-
+- Spoken in 24+ Events
+- Top 8 Micosoft Sentinel Contributor & Entitled as L5 Sentinel Black Belt
+- Published 10 + Articles with more than 10K views on Linkedin.
 
 ## 
 <table>
