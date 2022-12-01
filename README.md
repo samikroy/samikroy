@@ -10,7 +10,7 @@
 <table>
     <th>🔔 IMPORTANT REPOS</th>
     <tr>
-      <td><a href="https://github.com/samikroy/D4IOT"> ⭐ D4IOT </a></td>
+      <td><a href="https://github.com/samikroy/D4IOT"> ⭐ PS Module - Defender for IOT </a></td>
        </tr> 
    <tr>
       <td><a href="https://github.com/samikroy/kql-store"> KQL STORE </a></td>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td>25</td>
-      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:7001392748956196864/">PODCAST : Security Loopholes in the Architecture Practices in Cloud Computing</a></td>
+      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:7001392748956196864/">🎙️ Security Loopholes in the Architecture Practices in Cloud Computing</a></td>
       <td>Upcoming</td>
     </tr>
     <tr>
@@ -75,12 +75,12 @@
    <tr>
         <tr>
       <td>23</td>
-      <td><a href="https://www.youtube.com/watch?v=LnMNcBNpUFo">PODCAST : Cloud | Data | Security 🐱‍👤 ➡️ 🛡️ | DevSecOps</a></td>
+      <td><a href="https://www.youtube.com/watch?v=LnMNcBNpUFo">🎙️ Cloud | Data | Security 🐱‍👤 ➡️ 🛡️ | DevSecOps</a></td>
       <td>August, 2022</td>
     </tr>
    <tr>
       <td>22</td>
-      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6967475269729210368/">PODCAST : Terraform IaC - A Journey towards Continuous Delivery</a></td>
+      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6967475269729210368/">🎙️ Terraform IaC - A Journey towards Continuous Delivery</a></td>
       <td>August, 2022</td>
     </tr>
    <tr>
