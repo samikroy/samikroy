@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td>24</td>
-      <td><a href="https://www.youtube.com/watch?v=gKsdOdvQaL4">INDIA CLOUD SECURITY SUMMIT - Setup & Operationalize your Cloud SIEM at Scale</a></td>
+      <td><a href="https://www.youtube.com/watch?v=gKsdOdvQaL4">👨‍💻 INDIA CLOUD SECURITY SUMMIT - Setup & Operationalize your Cloud SIEM at Scale</a></td>
       <td>Oct, 2022</td>
     </tr>
    <tr>
@@ -85,22 +85,22 @@
     </tr>
    <tr>
       <td>21</td>
-      <td><a href="https://www.youtube.com/watch?v=An3LH1GLtiA&t=174s">AZ-104: Microsoft Azure Administrator | Bootcamp | Virtual Networking & Network Traffic Management</a></td>
+      <td><a href="https://www.youtube.com/watch?v=An3LH1GLtiA&t=174s">👨‍💻 AZ-104: Microsoft Azure Administrator | Bootcamp | Virtual Networking & Network Traffic Management</a></td>
       <td>July, 2022</td>
     </tr>
     <tr>
       <td>20</td>
-      <td><a href="https://www.youtube.com/watch?v=3_yRuplWfhk&t=827s">AZ-104: Microsoft Azure Administrator | Bootcamp | Azure Storage</a></td>
+      <td><a href="https://www.youtube.com/watch?v=3_yRuplWfhk&t=827s">👨‍💻 AZ-104: Microsoft Azure Administrator | Bootcamp | Azure Storage</a></td>
       <td>July, 2022</td>
     </tr>
     <tr>
       <td>19</td>
-      <td><a href="https://www.youtube.com/watch?v=jg54U8yBxGM">Microsoft Defender Advanced Hunting </a></td>
+      <td><a href="https://www.youtube.com/watch?v=jg54U8yBxGM">👨‍💻 Microsoft Defender Advanced Hunting </a></td>
       <td>July, 2022</td>
     </tr>
     <tr>
       <td>18</td>
-      <td><a href="https://twitter.com/MSCSUG/status/1542588243904008197">Fireup a workbook from Scratch </a></td>
+      <td><a href="https://twitter.com/MSCSUG/status/1542588243904008197">👨‍💻 Fireup a workbook from Scratch </a></td>
       <td>July, 2022</td>
     </tr>
    <tr>
@@ -123,7 +123,7 @@
    <tr>
    <td>14</td>
       <td>
-            <a href="https://www.m365virtualmarathon.com/speakers.html">Advance Your Deep Investigations with Jupyter Notebooks In Microsoft Sentinel</a>
+            <a href="https://www.m365virtualmarathon.com/speakers.html">👨‍💻 Advance Your Deep Investigations with Jupyter Notebooks In Microsoft Sentinel</a>
        </td>
       <td>
           May, 2022
@@ -132,7 +132,7 @@
     <tr>
    <td>13</td>
       <td>
-             <a href="https://www.youtube.com/watch?v=kRteEUmx41o">Get Smart with Data ingestion & Retention in Microsoft Sentinel at Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
+             <a href="https://www.youtube.com/watch?v=kRteEUmx41o">👨‍💻 Get Smart with Data ingestion & Retention in Microsoft Sentinel at Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
       <td>
          Nov, 2021
@@ -150,7 +150,7 @@
     <tr>
    <td>11</td>
       <td>
-        <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
+        <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">👨‍💻 Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
       <td>
           Oct, 2021
@@ -159,7 +159,7 @@
     <tr>
    <td>10</td>
       <td>
-      <a href="https://www.m365virtualmarathon.com/schedule.html">Make sense of Logs with Azure Wokbooks at Microsoft 365 Virtual Marathon</a>
+      <a href="https://www.m365virtualmarathon.com/schedule.html">👨‍💻 Make sense of Logs with Azure Wokbooks at Microsoft 365 Virtual Marathon</a>
        </td>
       <td>
           May 2021
@@ -168,7 +168,7 @@
     <tr>
    <td>9</td>
       <td>
-         <a href="https://www.m365virtualmarathon.com/schedule.html">Zero to Hero in Azure Sentinel at Microsoft 365 Virtual Marathon</a>
+         <a href="https://www.m365virtualmarathon.com/schedule.html">👨‍💻 Zero to Hero in Azure Sentinel at Microsoft 365 Virtual Marathon</a>
        </td>
       <td>
          May 2021
@@ -177,7 +177,7 @@
     <tr>
    <td>8</td>
       <td>
-          <a href="https://www.youtube.com/watch?v=2T0Pr4eOd_I&t=2s">Hunting with Jupyter Notebooks in Azure Sentinel  at 2020twentycon</a>
+          <a href="https://www.youtube.com/watch?v=2T0Pr4eOd_I&t=2s">👨‍💻 Hunting with Jupyter Notebooks in Azure Sentinel  at 2020twentycon</a>
        </td>
       <td>
          June, 2020
@@ -186,7 +186,7 @@
      <tr>
    <td>7</td>
       <td>
-          Remediate and Secure your Organization with Azure Sentinel, the new ERA SIEM  at 2020twentycon
+         👨‍💻 Remediate and Secure your Organization with Azure Sentinel, the new ERA SIEM  at 2020twentycon
        </td>
       <td>
          May, 2020
@@ -204,7 +204,7 @@
      <tr>
    <td>5</td>
       <td>
-             Color your Chatbot at Azure Vidyapeeth
+            👨‍💻 Color your Chatbot at Azure Vidyapeeth
        </td>
       <td>
         June, 2019
@@ -213,7 +213,7 @@
     <tr>
    <td>4</td>
       <td>
-              ABC of AzureFunctions at Azure Vidyapeeth
+            👨‍💻  ABC of AzureFunctions at Azure Vidyapeeth
        </td>
       <td>
         May, 2019
@@ -222,7 +222,7 @@
      <tr>
    <td>3</td>
       <td>
-               Tailor Azure Loganalytics with Kustoqueries at Azure Vidyapeeth
+              👨‍💻 Tailor Azure Loganalytics with Kustoqueries at Azure Vidyapeeth
        </td>
       <td>
         June, 2019
@@ -231,7 +231,7 @@
          <tr>
    <td>2</td>
       <td>
-               Empower Your Site Provisioning With Site Scripts And Site Designs For Modern Sharepoint Sites at C# Corner 
+               👨‍💻 Empower Your Site Provisioning With Site Scripts And Site Designs For Modern Sharepoint Sites at C# Corner 
        </td>
       <td>
         March, 2019
