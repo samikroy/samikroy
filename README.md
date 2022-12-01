@@ -58,70 +58,70 @@
       <th>⏳ 🏃 </th>
    </tr>
     <tr>
-      <td>26</td>
-      <td><a href="https://www.m365event.com">M365 SATURDAY BANGALORE 2022 - Advance Hunting with Defender Portal</a></td>
-      <td>Upcoming</td>
-    </tr>
-    <tr>
       <td>25</td>
-      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:7001392748956196864/">🎙️ Security Loopholes in the Architecture Practices in Cloud Computing</a></td>
+      <td><a href="https://www.m365event.com">🗣️ M365 SATURDAY BANGALORE 2022 - Advance Hunting with Defender Portal</a></td>
       <td>Upcoming</td>
     </tr>
     <tr>
       <td>24</td>
+      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:7001392748956196864/">🎙️ Security Loopholes in the Architecture Practices in Cloud Computing</a></td>
+      <td>Upcoming</td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td><a href="https://www.youtube.com/watch?v=gKsdOdvQaL4">👨‍💻 INDIA CLOUD SECURITY SUMMIT - Setup & Operationalize your Cloud SIEM at Scale</a></td>
       <td>Oct, 2022</td>
     </tr>
    <tr>
         <tr>
-      <td>23</td>
+      <td>22</td>
       <td><a href="https://www.youtube.com/watch?v=LnMNcBNpUFo">🎙️ Cloud | Data | Security 🐱‍👤 ➡️ 🛡️ | DevSecOps</a></td>
       <td>August, 2022</td>
     </tr>
    <tr>
-      <td>22</td>
+      <td>21</td>
       <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6967475269729210368/">🎙️ Terraform IaC - A Journey towards Continuous Delivery</a></td>
       <td>August, 2022</td>
     </tr>
    <tr>
-      <td>21</td>
+      <td>20</td>
       <td><a href="https://www.youtube.com/watch?v=An3LH1GLtiA&t=174s">👨‍💻 AZ-104: Microsoft Azure Administrator | Bootcamp | Virtual Networking & Network Traffic Management</a></td>
       <td>July, 2022</td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td><a href="https://www.youtube.com/watch?v=3_yRuplWfhk&t=827s">👨‍💻 AZ-104: Microsoft Azure Administrator | Bootcamp | Azure Storage</a></td>
       <td>July, 2022</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td><a href="https://www.youtube.com/watch?v=jg54U8yBxGM">👨‍💻 Microsoft Defender Advanced Hunting </a></td>
       <td>July, 2022</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td><a href="https://twitter.com/MSCSUG/status/1542588243904008197">👨‍💻 Fireup a workbook from Scratch </a></td>
       <td>July, 2022</td>
     </tr>
    <tr>
-      <td>17</td>
+      <td>16</td>
       <td><a href="https://www.youtube.com/watch?v=SENjwji0RXc">🎙️ Future of Tech, innovation in the cloud, & benefits of community engagement. </a></td>
       <td>June, 2022</td>
     </tr>
    <tr>
    <tr>
-      <td>16</td>
-      <td><a href="https://www.meetup.com/BangaloreITProUG/events/286130517/#:~:text=Make%20your%20Data%20meaningful%20With%20Azure%20Workbook.">Make your Data meaningful With Azure Workbook</a></td>
+      <td>15</td>
+      <td><a href="https://www.meetup.com/BangaloreITProUG/events/286130517/#:~:text=Make%20your%20Data%20meaningful%20With%20Azure%20Workbook.">🗣️ Make your Data meaningful With Azure Workbook</a></td>
       <td>June, 2022</td>
     </tr>
    <tr>
-      <td>15</td>
-      <td><a href="https://bengaluru.globalazure.in/#/">Tell stories with Azure Workbook</a></td>
+      <td>14</td>
+      <td><a href="https://bengaluru.globalazure.in/#/">🗣️ Tell stories with Azure Workbook</a></td>
       <td>May, 2022</td>
     </tr>
     </tr>
    <tr>
-   <td>14</td>
+   <td>13</td>
       <td>
             <a href="https://www.m365virtualmarathon.com/speakers.html">👨‍💻 Advance Your Deep Investigations with Jupyter Notebooks In Microsoft Sentinel</a>
        </td>
@@ -130,7 +130,7 @@
       </td>
     </tr>
     <tr>
-   <td>13</td>
+   <td>12</td>
       <td>
              <a href="https://www.youtube.com/watch?v=kRteEUmx41o">👨‍💻 Get Smart with Data ingestion & Retention in Microsoft Sentinel at Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
@@ -139,18 +139,9 @@
       </td>
     </tr>
     <tr>
-   <td>12</td>
-      <td>
-           <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">Zero to Hero in Azure Sentinel, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
-       </td>
-      <td>
-          Oct, 2021
-      </td>
-    </tr>
-    <tr>
    <td>11</td>
       <td>
-        <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">👨‍💻 Zero to Hero in Azure Sentinel at SpeakerSpeaker, Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
+        <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">👨‍💻 Zero to Hero in Azure Sentinel - Getting started with Azure Sentinel (Cloud Native SIEM ), Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
       <td>
           Oct, 2021
@@ -195,7 +186,7 @@
     <tr>
    <td>6</td>
       <td>
-          Talk to Power BI in Natural Language at Global Power Platform Bootcamp
+          🗣️ Talk to Power BI in Natural Language at Global Power Platform Bootcamp
        </td>
       <td>
          Feb, 2020
@@ -240,7 +231,7 @@
       <tr>
    <td>1</td>
       <td>
-               PowerShell Script with AI-Infused Automation at SharePoint Saturday Hyderabad
+               🗣️ PowerShell Script with AI-Infused Automation at SharePoint Saturday Hyderabad
        </td>
       <td>
         March, 2019
@@ -296,68 +287,9 @@
          </td>
       </tr>
    </table>
-   <!--
-      <td>2022</td>
-      </tr>
-   <tr>
-         <td>
-      
-      </td>
-      <td>2022</td>
-      </tr>
-   <tr>
-         <td>
-     
-      </td>
-      <td>2022</td>
-      </tr>
-      <tr>
-         <td>
-     
-      </td>
-      <td>2022</td>
-      </tr>
-    <tr>
-         <td>
-     
-      </td>
-      <td>2022</td>
-      </tr>
-    <tr>
-         <td>
-     
-      </td>
-      <td>2022</td>
-      </tr>
-       <tr>
-         <td>
-     
-      </td>
-      <td>2021</td>
-      </tr>
-       <tr>
-         <td>
-     
-      </td>
-      <td>2021</td>
-      </tr>
-   </table>
--->
-<!--
-- [Top 15 Threat Hunter by Microsoft Sentinel - Year 2022 ](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md)
-- [L5 Microsoft Sentinel Black Belt - Year 2022](https://www.credly.com/badges/d58642b4-46fc-4456-80e4-0b1bdde8936e)
-- [L4 Cloud Security Rockstar Team - Year 2022](https://www.credly.com/badges/b629b838-3c79-41a8-930f-39c38f668012)
-- [L3 Microsoft Sentinel Influencer - Year 2022](https://www.credly.com/badges/2f5ce318-2041-479c-8335-fcd0cb8a7835)
-- [L2 Cloud Security Product Influencer - Year 2022](https://www.credly.com/badges/3c4dc3f3-36dd-40cf-bc94-e2d0071cd872)
-- [Cloud Security Product Champion - Year 2022](https://www.credly.com/badges/98602b18-0334-4f11-8326-b0bc4314a9d0?source=linked_in_profile)
-- [Product Influencer - Year 2021](https://www.credly.com/badges/ebcc9ad2-09ac-4a9d-b284-6337dab69af9?source=linked_in_profile)
-- [Product Advocate - Year 2021](https://www.credly.com/badges/e615ffbf-b8a7-49aa-9a9e-c5fb021cd023)
--->
-    
+       
 ## 
-<!--
-<a href= 'https://github.com/Azure/Azure-Sentinel/pulls?q=is%3Apr+author%3Asamikroy' target = '_blank' > Click to view in detail</a>
--->
+
 
 <table>
    <tr>
