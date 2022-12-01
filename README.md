@@ -58,19 +58,29 @@
       <th>⏳ 🏃 </th>
    </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td><a href="https://www.m365event.com">M365 SATURDAY BANGALORE 2022 - Advance Hunting with Defender Portal</a></td>
       <td>Upcoming</td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
+      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:7001392748956196864/">PODCAST : Security Loopholes in the Architecture Practices in Cloud Computing</a></td>
+      <td>Upcoming</td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td><a href="https://www.youtube.com/watch?v=gKsdOdvQaL4">INDIA CLOUD SECURITY SUMMIT - Setup & Operationalize your Cloud SIEM at Scale</a></td>
       <td>Oct, 2022</td>
     </tr>
    <tr>
+        <tr>
+      <td>23</td>
+      <td><a href="https://www.youtube.com/watch?v=LnMNcBNpUFo">PODCAST : Cloud | Data | Security 🐱‍👤 ➡️ 🛡️ | DevSecOps</a></td>
+      <td>August, 2022</td>
+    </tr>
    <tr>
       <td>22</td>
-      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6967475269729210368/">Terraform IaC - A Journey towards Continuous Delivery</a></td>
+      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6967475269729210368/">PODCAST : Terraform IaC - A Journey towards Continuous Delivery</a></td>
       <td>August, 2022</td>
     </tr>
    <tr>
