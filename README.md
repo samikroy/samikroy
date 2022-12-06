@@ -64,7 +64,7 @@
     <tr>
       <td>25</td>
       <td><a href="https://www.m365event.com">🗣️ M365 SATURDAY BANGALORE 2022 - Advance Hunting with Defender Portal</a></td>
-      <td>Upcoming</td>
+      <td>Dec, 2022</td>
     </tr>
     <tr>
       <td>24</td>
