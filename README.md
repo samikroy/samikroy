@@ -306,6 +306,7 @@
       <th> Last Modified </th>
       <th> Status </th>
              </tr>
+    <tr><td>6947</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/6947' target='_blank'>Added a workbook for Log Analytics Query Analysis</a></td><td>2022-12-27</td><td>closed</td></tr>
  <tr><td>6235</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/6235' target='_blank'>Added a workbook for Health Workbook</a></td><td>2022-09-29</td><td>closed</td></tr>
       </tr>
        </tr>
