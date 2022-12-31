@@ -65,6 +65,12 @@
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
+     <tr>
+      <td>26</td>
+      <td><a href="https://reskilll.com/event/devopsdayben">🗣️ Azure DevOps Day, Bengaluru 2023 - Make GitHub Developers Friendly With Advanced Security</a></td>
+      <td>Upcoming</td>
+    </tr>
+    <tr>
     <tr>
       <td>25</td>
       <td><a href="https://www.m365event.com">🗣️ M365 SATURDAY BANGALORE 2022 - Advance Hunting with Defender Portal</a></td>
