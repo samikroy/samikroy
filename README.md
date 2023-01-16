@@ -68,7 +68,7 @@
      <tr>
       <td>26</td>
       <td><a href="https://reskilll.com/event/devopsdayben">🗣️ Azure DevOps Day, Bengaluru 2023 - Make GitHub Developers Friendly With Advanced Security</a></td>
-      <td>Upcoming</td>
+      <td>jan 2023</td>
     </tr>
     <tr>
     <tr>
