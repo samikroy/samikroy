@@ -66,9 +66,14 @@
       <th>⏳ 🏃 </th>
    </tr>
      <tr>
+      <td>27</td>
+      <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:7031319199192928256/">🎙️ Learning the impact of the Defender ecosystem</a></td>
+      <td>Feb 2023</td>
+    </tr>
+     <tr>
       <td>26</td>
       <td><a href="https://reskilll.com/event/devopsdayben">🗣️ Azure DevOps Day, Bengaluru 2023 - Make GitHub Developers Friendly With Advanced Security</a></td>
-      <td>jan 2023</td>
+      <td>Jan 2023</td>
     </tr>
     <tr>
     <tr>
