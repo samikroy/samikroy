@@ -7,9 +7,11 @@
 - <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 10 + Articles with more than 10K views on Linkedin.
 - <a href="https://www.powershellgallery.com/packages/D4IOT/0.0.0.3" target="_blank">Published a PS Module for Defeder for IOT</a>
 - Sharing  in <a href="https://www.linkedin.com/in/roysamik/" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206221996-a9f62e1b-b4f5-41d8-8575-69312b485691.png"></a> & building on <a href="https://github.com/samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206223895-50b8777b-feb9-4585-9f4c-f839874e790c.png"></a>  & exploring <a href="https://www.youtube.com/@samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206222784-5103f54e-7ef5-4991-a21e-af654b8b928a.png"></a>
-    
-       
+- <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> Learn Kql for Microsoft Sentinel | 4.5 ⭐ </a>
+      
 
+    
+    
 
 ## 
 <table>
