@@ -67,6 +67,11 @@
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
+      <tr>
+      <td>28</td>
+      <td><a href="https://www.linkedin.com/video/live/urn:li:ugcPost:7036914182121803776/">🎙️ Panel Discussion - GitOps : The New Age DevOps</a></td>
+      <td>Feb 2023</td>
+    </tr>
      <tr>
       <td>27</td>
       <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:7031319199192928256/">🎙️ Learning the impact of the Defender ecosystem</a></td>
