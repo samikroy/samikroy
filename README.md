@@ -70,7 +70,7 @@
       <tr>
       <td>28</td>
       <td><a href="https://www.linkedin.com/video/live/urn:li:ugcPost:7036914182121803776/">🎙️ Panel Discussion - GitOps : The New Age DevOps</a></td>
-      <td>Feb 2023</td>
+      <td>Mar 2023</td>
     </tr>
      <tr>
       <td>27</td>
