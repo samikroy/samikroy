@@ -324,6 +324,10 @@
       <th> Last Modified </th>
       <th> Status </th>
              </tr>
+      <tr><td>7725</td><td> Tool ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7725' target='_blank'>Audit Sentinel Detection Rules </a></td><td>2023-04-03</td><td>open</td></tr>
+      <tr><td>7561</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7561' target='_blank'>Added a workbook for Microsoft PowerBI Activity</a></td><td>2023-03-20</td><td>closed</td></tr>
+      <tr><td>6409</td><td> Tool ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/6409' target='_blank'>Tool for creating Incidents with Email</a></td><td>2023-03-13</td><td>closed</td></tr>
+      <tr><td>7529</td><td> ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7529' target='_blank'>Updated Active Directory Sensitive Group Modifications Detection</a></td><td>2023-03-13</td><td>closed</td></tr>
     <tr><td>6947</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/6947' target='_blank'>Added a workbook for Log Analytics Query Analysis</a></td><td>2022-12-27</td><td>closed</td></tr>
  <tr><td>6235</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/6235' target='_blank'>Added a workbook for Health Workbook</a></td><td>2022-09-29</td><td>closed</td></tr>
       </tr>
