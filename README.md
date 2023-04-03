@@ -68,7 +68,7 @@
       <th>⏳ 🏃 </th>
    </tr>
       <tr>
-      <td>28</td>
+      <td>29</td>
       <td><a href="https://www.meetup.com/bangaloreitproug/events/292552408">🗣️ Threat management with Workbooks in Microsoft Sentinel </a></td>
       <td>Upcoming, April 2023</td>
     </tr>
