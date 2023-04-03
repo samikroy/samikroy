@@ -69,6 +69,11 @@
    </tr>
       <tr>
       <td>28</td>
+      <td><a href="https://www.meetup.com/bangaloreitproug/events/292552408">🗣️ Threat management with Workbooks in Microsoft Sentinel </a></td>
+      <td>Upcoming, April 2023</td>
+    </tr>
+      <tr>
+      <td>28</td>
       <td><a href="https://www.linkedin.com/video/live/urn:li:ugcPost:7036914182121803776/">🎙️ Panel Discussion - GitOps : The New Age DevOps</a></td>
       <td>Mar 2023</td>
     </tr>
@@ -324,7 +329,9 @@
       <th> Last Modified </th>
       <th> Status </th>
              </tr>
-      <tr><td>7725</td><td> Tool ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7725' target='_blank'>Audit Sentinel Detection Rules </a></td><td>2023-04-03</td><td>open</td></tr>
+      <tr><td>7730</td><td> Solution ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7730' target='_blank'>Adding Threat Intelligence Workbook as a part of the solution</a></td><td>2023-04-03</td><td>open</td></tr>
+       <tr><td>7726</td><td> Solution ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7726' target='_blank'>Adding new workbooks to Defender Solutions</a></td><td>2023-04-03</td><td>open</td></tr>
+      <tr><td>7725</td><td> Tool ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7725' target='_blank'>Audit Sentinel Detection Rules</a></td><td>2023-04-03</td><td>open</td></tr>
       <tr><td>7561</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7561' target='_blank'>Added a workbook for Microsoft PowerBI Activity</a></td><td>2023-03-20</td><td>closed</td></tr>
       <tr><td>6409</td><td> Tool ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/6409' target='_blank'>Tool for creating Incidents with Email</a></td><td>2023-03-13</td><td>closed</td></tr>
       <tr><td>7529</td><td> ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7529' target='_blank'>Updated Active Directory Sensitive Group Modifications Detection</a></td><td>2023-03-13</td><td>closed</td></tr>
