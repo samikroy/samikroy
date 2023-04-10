@@ -1,7 +1,7 @@
 ## 👋 🌎 
 
 <!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)-->
-- <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> 2 month old Author of Course : Learn Kql for Microsoft Sentinel | 1300+ Enrollments | 4.5 ⭐ </a>
+- <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> Learn Kql for Microsoft Sentinel | 1300+ Enrollments | 4.5 ⭐ </a>
 - <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">3 Year old Top 7 Microsoft Sentinel Contributor</a>
 - Entitled as L5 Sentinel Black Belt for Private Previews
 - Spoken in 25+ Events about Cloud & Cloud Security
