@@ -1,16 +1,35 @@
 ## 👋 🌎 
 
 <!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)-->
-- <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> Learn Kql for Microsoft Sentinel | 1300+ Enrollments | 4.5 ⭐ </a>
-- <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">Top 7 Microsoft Sentinel Contributor</a>
-- Entitled as L5 Sentinel Black Belt for Private Previews
-- Spoken in 25+ Events about Cloud & Cloud Security
-- <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 10 + Articles with more than 10K views on Linkedin.
-- <a href="https://www.powershellgallery.com/packages/D4IOT/0.0.0.3" target="_blank">Published a PS Module for Defeder for IOT</a>
-- <a href="https://www.linkedin.com/groups/8768381/" target="_blank">Moderatig Microsoft Sentinel Community</a>
-- Sharing  in <a href="https://www.linkedin.com/in/roysamik/" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206221996-a9f62e1b-b4f5-41d8-8575-69312b485691.png"></a> & building on <a href="https://github.com/samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206223895-50b8777b-feb9-4585-9f4c-f839874e790c.png"></a>  & exploring <a href="https://www.youtube.com/@samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206222784-5103f54e-7ef5-4991-a21e-af654b8b928a.png"></a>
-
-      
+<table>
+<tr>
+      <td>
+    <ul>        
+<li> <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> Learn Kql for Microsoft Sentinel | 1300+ Enrollments | 4.5 ⭐ </a> </li>
+<li> <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">Top 7 Microsoft Sentinel Contributor</a> </li>
+<li> Entitled as L5 Sentinel Black Belt for Private Previews </li>
+<li> Spoken in 25+ Events about Cloud & Cloud Security</li>
+<li> <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 10 + Articles with more than 10K views on Linkedin.</li>
+<li> <a href="https://www.powershellgallery.com/packages/D4IOT/0.0.0.3" target="_blank">Published a PS Module for Defeder for IOT</a></li>
+<li> <a href="https://www.linkedin.com/groups/8768381/" target="_blank">Moderatig Microsoft Sentinel Community</a></li>
+<li> Sharing  in <a href="https://www.linkedin.com/in/roysamik/" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206221996-a9f62e1b-b4f5-41d8-8575-69312b485691.png"></a> & building on <a href="https://github.com/samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206223895-50b8777b-feb9-4585-9f4c-f839874e790c.png"></a>  & exploring <a href="https://www.youtube.com/@samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206222784-5103f54e-7ef5-4991-a21e-af654b8b928a.png"></a>
+      </li>
+</ul>
+          </td>
+      <td>
+            <div align="center">
+                  Organizing Global Azure Bangalore 2023
+            <br/>May 13th, 2023
+                  <br/>
+            <img height = 100 width = 100 src="https://user-images.githubusercontent.com/20562985/231532484-1d3d1e1b-d017-4ed0-bcd4-a6187cf2e738.png">
+            <br/>
+                  <a href="https://bengaluru.globalazure.in/" target="_blank">Website </a>
+            <br/>
+            <a href="https://sessionize.com/global-azure-blr-2023/" target="_blank">Call for Speakers</a>
+                  </div>
+            </td>
+            </tr>
+    </table>  
 
     
     
