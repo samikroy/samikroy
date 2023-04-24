@@ -297,7 +297,18 @@
 <table>
    <tr>
       <th>𝐴𝐶𝐻𝐸𝐼𝑉𝐸𝑀𝐸𝑁𝑇 🏃</th>
-   </tr>
+   </tr
+      <tr>
+         <td>2023</td>
+      </tr>
+      <tr>
+            <td>
+                  <ul>
+            <li>
+      <a href='https://www.credly.com/badges/a16a75e4-c67e-41f7-8dba-029771c03c3c'>Cloud Security Product Champion</a>
+               </li>
+                  </td>
+            </tr>
    <tr>
       <td>2022</td>
       </tr>
