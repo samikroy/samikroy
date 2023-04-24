@@ -350,8 +350,8 @@
       <th> Last Modified </th>
       <th> Status </th>
              </tr>
-      <tr><td>7730</td><td> Solution ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7730' target='_blank'>Adding Threat Intelligence Workbook as a part of the solution</a></td><td>2023-04-03</td><td>open</td></tr>
-       <tr><td>7726</td><td> Solution ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7726' target='_blank'>Adding new workbooks to Defender Solutions</a></td><td>2023-04-03</td><td>open</td></tr>
+      <tr><td>7730</td><td> Solution ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7730' target='_blank'>Adding Threat Intelligence Workbook as a part of the solution</a></td><td>2023-04-10</td><td>closed</td></tr>
+       <tr><td>7726</td><td> Solution ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7726' target='_blank'>Adding new workbooks to Defender Solutions</a></td><td>2023-04-10</td><td>closed</td></tr>
       <tr><td>7725</td><td> Tool ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7725' target='_blank'>Audit Sentinel Detection Rules</a></td><td>2023-04-03</td><td>open</td></tr>
       <tr><td>7561</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7561' target='_blank'>Added a workbook for Microsoft PowerBI Activity</a></td><td>2023-03-20</td><td>closed</td></tr>
       <tr><td>6409</td><td> Tool ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/6409' target='_blank'>Tool for creating Incidents with Email</a></td><td>2023-03-13</td><td>closed</td></tr>
