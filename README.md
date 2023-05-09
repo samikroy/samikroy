@@ -24,8 +24,6 @@
             <img height = 100 width = 100 src="https://user-images.githubusercontent.com/20562985/231532484-1d3d1e1b-d017-4ed0-bcd4-a6187cf2e738.png">
             <br/>
                   <a href="https://bengaluru.globalazure.in/" target="_blank">Website </a>
-            <br/>
-            <a href="https://sessionize.com/global-azure-blr-2023/" target="_blank">Call for Speakers</a>
                   </div>
             </td>
             </tr>
