@@ -24,6 +24,8 @@
             <img height = 100 width = 100 src="https://user-images.githubusercontent.com/20562985/231532484-1d3d1e1b-d017-4ed0-bcd4-a6187cf2e738.png">
             <br/>
                   <a href="https://bengaluru.globalazure.in/" target="_blank">Website </a>
+                  <br/>
+                  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7063840881241436160/">Success Story</a>
                   </div>
             </td>
             </tr>
