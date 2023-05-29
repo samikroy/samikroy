@@ -89,6 +89,16 @@
       <th>⏳ 🏃 </th>
    </tr>
       <tr>
+      <td>31</td>
+      <td><a href="https://www.youtube.com/watch?v=OVOizNmg1vQ">🗣️ Getting Started with Microsoft Azure - Lakshit Pant | Azure Learning Series | Azure Networking </a></td>
+      <td>May 2023</td>
+      </tr>
+      <tr>
+      <td>30</td>
+      <td><a href="https://www.youtube.com/watch?v=eIat-0XuK5c">🗣️ Catalog Multicloud Data with Purview </a></td>
+      <td>May 2023</td>
+      </tr>
+      <tr>
       <td>29</td>
       <td><a href="https://www.meetup.com/bangaloreitproug/events/292552408">🗣️ Threat management with Workbooks in Microsoft Sentinel </a></td>
       <td>April 2023</td>
