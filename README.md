@@ -54,6 +54,10 @@
    <td>
    <table>
     <th>🔔 IMPORTANT ARTICLES</th>
+         
+         <tr>
+      <td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7043065407380848642?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7043065407380848642%29"> Audit Sentinel Analytic Rule Updates in Microsoft Sentinel</a></td>
+         </tr>
          <tr>
       <td><a href="https://www.linkedin.com/pulse/export-twitter-ti-feed-sentinel-samik-roy">Export Twitter TI Feed to Sentinel</a></td>
        </tr>
