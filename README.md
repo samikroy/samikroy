@@ -6,7 +6,7 @@
       <td>
     <ul>        
 <li> <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> Learn Kql for Microsoft Sentinel | 1500+ Enrollments | 4.5 ⭐ </a> </li>
-<li> <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">Top 7 Microsoft Sentinel Contributor</a> </li>
+<li> <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">Top 5 Microsoft Sentinel Contributor</a> </li>
 <li> Entitled as L5 Sentinel Black Belt for Private Previews </li>
 <li> Spoken in 25+ Events about Cloud & Cloud Security</li>
 <li> <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 10 + Articles with more than 10K views on Linkedin.</li>
