@@ -92,8 +92,19 @@
       <th>⏳ 🏃 </th>
    </tr>
       <tr>
+      <td>33</td>
+      <td><a href="https://ti.to/bdotnetug/build-after-party-blr-23">🗣️ Microsoft Build After Party - Bengaluru | What's new in Azure Security </a></td>
+      <td>July 2023</td>
+      </tr>
+      <tr>
+      <tr>
+      <td>32</td>
+      <td><a href="https://www.meetup.com/bangaloreitproug/events/293822408">🗣️ Scan your OT network with Defender | BITPRO Meetup </a></td>
+      <td>June 2023</td>
+      </tr>
+      <tr>
       <td>31</td>
-      <td><a href="https://www.youtube.com/watch?v=OVOizNmg1vQ">🗣️ Getting Started with Microsoft Azure - Lakshit Pant | Azure Learning Series | Azure Networking </a></td>
+      <td><a href="https://www.youtube.com/watch?v=OVOizNmg1vQ">🗣️ Getting Started with Microsoft Azure | Azure Learning Series | Azure Networking </a></td>
       <td>May 2023</td>
       </tr>
       <tr>
