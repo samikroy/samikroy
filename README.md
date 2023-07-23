@@ -91,6 +91,12 @@
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
+       <tr>
+      <td>34</td>
+      <td><a href="https://www.youtube.com/watch?v=WDYfPp2ijKk">🎙️ Cloud Security Unwrapped </a></td>
+      <td>July 2023</td>
+      </tr>
+      <tr>
       <tr>
       <td>33</td>
       <td><a href="https://ti.to/bdotnetug/build-after-party-blr-23">🗣️ Microsoft Build After Party - Bengaluru | What's new in Azure Security </a></td>
