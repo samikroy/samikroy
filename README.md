@@ -3,19 +3,28 @@
 <!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=samikroy.samikroy&color=00df00)-->
 <table>
 <tr>
+       <td>
+            <div align="center">
+                  <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank">
+            <img height = 150 width = 100 src="https://github.com/samikroy/samikroy/assets/20562985/b977c05c-fb4c-4a9e-8878-357aa80e9eb7">
+                  <br>
+                  <br>
+                  Grab Your copy for FREE now </a> 
+                  </div>
+      </td>
       <td>
-    <ul>        
-<li> <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> Learn Kql for Microsoft Sentinel | 2500+ Enrollments | 4.2 ⭐ </a> </li>
-<li> <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">Top 5 Microsoft Sentinel Contributor</a> </li>
-<li> Entitled as L5 Sentinel Black Belt for Private Previews </li>
-<li> Spoken in 30+ Events about Cloud & Cloud Security</li>
-<li> <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 10 + Articles with more than 10K views on Linkedin.</li>
-<li> <a href="https://www.powershellgallery.com/packages/D4IOT/0.0.0.3" target="_blank">Published a PS Module for Defeder for IOT</a></li>
-<li> <a href="https://www.linkedin.com/groups/8768381/" target="_blank">Moderatig Microsoft Sentinel Community</a></li>
-<li> Sharing  in <a href="https://www.linkedin.com/in/roysamik/" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206221996-a9f62e1b-b4f5-41d8-8575-69312b485691.png"></a> & building on <a href="https://github.com/samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206223895-50b8777b-feb9-4585-9f4c-f839874e790c.png"></a>  & exploring <a href="https://www.youtube.com/@samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206222784-5103f54e-7ef5-4991-a21e-af654b8b928a.png"></a>
-      </li>
-</ul>
-          </td>
+            <div align="center">
+                  <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank">
+            <img height = 50 width = 100 src="https://github.com/samikroy/samikroy/assets/20562985/f61bd54d-25d1-4197-9b9c-14d8f790e86a">
+                  <br>
+                  Learn Kql for Microsoft Sentinel 
+                  <br>
+                   Enroll Now 
+                  <br>
+                        👆
+                  </a> 
+                  </div>
+      </td>
       <td>
             <div align="center">
                   🔔 Organized Global Azure Bangalore 2023
@@ -27,11 +36,38 @@
                   <br/>
                   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7063840881241436160/">Success Story</a>
                   </div>
-            </td>
+      </td>
+            <td>
+            <div align="center">
+                  🔔 Organizing India Cloud Security Summit 2023
+            <br/>December 9th, 2023
+                  <br/>
+            <img height = 100 width = 200 src="https://github.com/samikroy/samikroy/assets/20562985/03f4cf20-121e-409f-abbb-2040558af7fe">
+            <br/>
+                  <a href="https://www.indiacloudsecuritysummit.com" target="_blank">Website</a>
+                  </div>
+      </td>
             </tr>
     </table>  
-
-    
+    <table>
+          <th>🔔 SUMMARY</th>
+    <tr>
+      <td>
+    <ul>        
+          <li> <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"> KQL : A Gateway To Microsoft Sentinel  </a> </li>
+<li> <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> Learn Kql for Microsoft Sentinel | 2500+ Enrollments | 4.5 ⭐ </a> </li>
+<li> <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">Top 5 Microsoft Sentinel Contributor</a> </li>
+<li> Entitled as L5 Sentinel Black Belt for Private Previews </li>
+<li> Spoken in 30+ Events about Cloud & Cloud Security</li>
+<li> <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 10 + Articles with more than 10K views on Linkedin.</li>
+<li> <a href="https://www.powershellgallery.com/packages/D4IOT/0.0.0.3" target="_blank">Published a PS Module for Defeder for IOT</a></li>
+<li> <a href="https://www.linkedin.com/groups/8768381/" target="_blank">Moderatig Microsoft Sentinel Community</a></li>
+<li> Sharing  in <a href="https://www.linkedin.com/in/roysamik/" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206221996-a9f62e1b-b4f5-41d8-8575-69312b485691.png"></a> & building on <a href="https://github.com/samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206223895-50b8777b-feb9-4585-9f4c-f839874e790c.png"></a>  & exploring <a href="https://www.youtube.com/@samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206222784-5103f54e-7ef5-4991-a21e-af654b8b928a.png"></a>
+      </li>
+</ul>
+          </td>
+    </tr>
+    </table>
     
 
 ## 
@@ -91,12 +127,28 @@
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
+      <td>37</td>
+      <td><a href="https://www.m365event.com/#agenda">🎙️ Microsoft 365 Saturday Bangalore </a></td>
+      <td>Upcoming</td>
+      </tr>
+       <tr>
+      <tr>
+      <td>36</td>
+      <td><a href="https://www.linkedin.com/posts/roysamik_azure-cloudcomputing-virtualevent-activity-7133106231338008576-Ho06?utm_source=share&utm_medium=member_desktop">🎙️ Azure User Group Vadodara </a></td>
+      <td>Upcoming</td>
+      </tr>
+       <tr>
+      <tr>
+      <tr>
+      <td>35</td>
+      <td><a href="https://azconf.dev/speakers/samik-roy-2023">🎙️ AzConf 2023 </a></td>
+      <td>Nov 2023</td>
+      </tr>
        <tr>
       <td>34</td>
       <td><a href="https://www.youtube.com/watch?v=WDYfPp2ijKk">🎙️ Cloud Security Unwrapped </a></td>
       <td>July 2023</td>
       </tr>
-      <tr>
       <tr>
       <td>33</td>
       <td><a href="https://ti.to/bdotnetug/build-after-party-blr-23">🗣️ Microsoft Build After Party - Bengaluru | What's new in Azure Security </a></td>
