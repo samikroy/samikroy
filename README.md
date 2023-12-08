@@ -5,7 +5,7 @@
 <tr>
        <td>
             <div align="center">
-                  <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank">
+                  <a href="https://store.pothi.com/book/ebook-samik-roy-kql-gateway-microsoft-sentinel/" target="_blank">
             <img height = 150 width = 100 src="https://github.com/samikroy/samikroy/assets/20562985/b977c05c-fb4c-4a9e-8878-357aa80e9eb7">
                   <br>
                   <br>
