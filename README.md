@@ -130,7 +130,7 @@
        <tr>
       <td>38</td>
       <td><a href="https://www.indiacloudsecuritysummit.com/#agenda">🎙️ Better together: Microsoft Defender for Endpoint, Defender for Cloud Apps & Microsoft Sentinel | India Cloud Security Summit 2023 </a></td>
-      <td>December 2nd, 2023</td>
+      <td>December 9th , 2023</td>
       </tr>
        <tr>
       <td>37</td>
