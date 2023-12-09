@@ -127,15 +127,21 @@
       <th>🔔 𝐶𝑂𝑀𝑀𝑈𝑁𝐼𝑇𝑌 𝑊𝐸𝐵𝐼𝑁𝐴𝑅 𝕋𝕆ℙ𝕀ℂ</th>
       <th>⏳ 🏃 </th>
    </tr>
+       <tr>
+      <td>38</td>
+      <td><a href="https://www.indiacloudsecuritysummit.com/#agenda">🎙️ Better together: Microsoft Defender for Endpoint, Defender for Cloud Apps & Microsoft Sentinel | India Cloud Security Summit 2023 </a></td>
+      <td>December 2nd, 2023</td>
+      </tr>
+       <tr>
       <td>37</td>
-      <td><a href="https://www.m365event.com/#agenda">🎙️ Microsoft 365 Saturday Bangalore </a></td>
-      <td>Upcoming</td>
+      <td><a href="https://www.m365event.com/#agenda">🎙️ Improve your security posture with Microsoft Defender for Cloud | Microsoft 365 Saturday Bangalore </a></td>
+      <td>December 2nd, 2023</td>
       </tr>
        <tr>
       <tr>
       <td>36</td>
       <td><a href="https://www.linkedin.com/posts/roysamik_azure-cloudcomputing-virtualevent-activity-7133106231338008576-Ho06?utm_source=share&utm_medium=member_desktop">🎙️ Azure User Group Vadodara </a></td>
-      <td>Upcoming</td>
+      <td>27th November,2023</td>
       </tr>
        <tr>
       <tr>
