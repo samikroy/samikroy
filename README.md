@@ -128,6 +128,31 @@
       <th>⏳ 🏃 </th>
    </tr>
        <tr>
+  <td>39</td>
+  <td><a href="https://www.youtube.com/watch?v=MEuNSdqcKT8">🎙️ Augmenting SOAR in Microsoft Security Copilot</a></td>
+  <td>April 2025</td>
+</tr>
+<tr>
+  <td>40</td>
+  <td><a href="https://www.youtube.com/watch?v=1_VhPuDhscQ">🎙️ Microsoft Security Copilot in Action</a></td>
+  <td>March 2025</td>
+</tr>
+<tr>
+  <td>41</td>
+  <td><a href="https://www.youtube.com/playlist?list=PL0DL3leUdh2SnZNlcsZudijjr3LtJpN96">🎙️ Microsoft Defender : Zero to Hero Webinar Series</a></td>
+  <td>2024</td>
+</tr>
+<tr>
+  <td>42</td>
+  <td>🎙️ <b>Unlocking the Power of Azure OpenAI Monitoring</b> | Microsoft | Chennai</td>
+  <td>November 16, 2024</td>
+</tr>
+<tr>
+  <td>43</td>
+  <td>🎙️ <b>Pen Testing AI Apps</b> | TechX Conference 2024 | Chennai Trade Center</td>
+  <td>November 15, 2024</td>
+</tr>
+       <tr>
       <td>38</td>
       <td><a href="https://www.indiacloudsecuritysummit.com/#agenda">🎙️ Better together: Microsoft Defender for Endpoint, Defender for Cloud Apps & Microsoft Sentinel | India Cloud Security Summit 2023 </a></td>
       <td>December 9th , 2023</td>
