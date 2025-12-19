@@ -474,6 +474,10 @@
       <th> Last Modified </th>
       <th> Status </th>
              </tr>
+      <tr><td>12859</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/12859' target='_blank'>Added a new workbook for WatchGuard Firebox</a></td><td>2024-09-24</td><td>closed</td></tr>
+      <tr><td>12803</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/12803' target='_blank'>Adding new workbook for Auth0</a></td><td>2024-09-23</td><td>closed</td></tr>
+      <tr><td>12607</td><td> ᴘᴀʀsᴇʀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/12607' target='_blank'>Updated similar to Parser for CriblUIAccess to correct the projection for other parsers</a></td><td>2024-08-11</td><td>closed</td></tr>
+      <tr><td>12249</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/12249' target='_blank'>Created a workbook for AAD Managed Identity SignIn Logs</a></td><td>2024-06-19</td><td>closed</td></tr>
       <tr><td>7730</td><td> Solution ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7730' target='_blank'>Adding Threat Intelligence Workbook as a part of the solution</a></td><td>2023-04-10</td><td>closed</td></tr>
        <tr><td>7726</td><td> Solution ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7726' target='_blank'>Adding new workbooks to Defender Solutions</a></td><td>2023-04-10</td><td>closed</td></tr>
       <tr><td>7725</td><td> Tool ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/7725' target='_blank'>Audit Sentinel Detection Rules</a></td><td>2023-04-03</td><td>open</td></tr>
