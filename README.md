@@ -56,12 +56,14 @@
     <ul>        
           <li> <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"> KQL : A Gateway To Microsoft Sentinel  </a> </li>
 <li> <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> Learn Kql for Microsoft Sentinel | 2500+ Enrollments | 4.5 ⭐ </a> </li>
-<li> <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">Top 5 Microsoft Sentinel Contributor</a> </li>
+<li> <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">Top 5 Microsoft Sentinel Contributor | 72+ Pull Requests</a> </li>
+<li> <a href="https://github.com/marketplace/actions/microsoft-defender-scout" target="_blank">Published Microsoft Defender Scout GitHub Action</a> </li>
+<li> <a href="https://github.com/github/awesome-copilot/pull/1115" target="_blank">Azure Policy Analyzer featured in Awesome Copilot</a> </li>
 <li> Entitled as L5 Sentinel Black Belt for Private Previews </li>
 <li> Spoken in 30+ Events about Cloud & Cloud Security</li>
-<li> <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 10 + Articles with more than 10K views on Linkedin.</li>
-<li> <a href="https://www.powershellgallery.com/packages/D4IOT/0.0.0.3" target="_blank">Published a PS Module for Defeder for IOT</a></li>
-<li> <a href="https://www.linkedin.com/groups/8768381/" target="_blank">Moderatig Microsoft Sentinel Community</a></li>
+<li> <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 9+ Articles with more than 10K views on LinkedIn</a></li>
+<li> <a href="https://www.powershellgallery.com/packages/D4IOT/0.0.0.3" target="_blank">Published a PS Module for Defender for IoT</a></li>
+<li> <a href="https://www.linkedin.com/groups/8768381/" target="_blank">Moderating Microsoft Sentinel Community</a></li>
 <li> Sharing  in <a href="https://www.linkedin.com/in/roysamik/" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206221996-a9f62e1b-b4f5-41d8-8575-69312b485691.png"></a> & building on <a href="https://github.com/samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206223895-50b8777b-feb9-4585-9f4c-f839874e790c.png"></a>  & exploring <a href="https://www.youtube.com/@samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206222784-5103f54e-7ef5-4991-a21e-af654b8b928a.png"></a>
       </li>
 </ul>
@@ -77,18 +79,51 @@
 <table>
     <th>🔔 IMPORTANT REPOS</th>
     <tr>
-      <td><a href="https://github.com/samikroy/D4IOT"> ⭐ PS Module - Defender for IOT </a></td>
+      <td><a href="https://github.com/samikroy/D4IOT"> ⭐ PS Module - Defender for IoT </a></td>
        </tr> 
    <tr>
-      <td><a href="https://github.com/samikroy/kql-store"> KQL STORE </a></td>
+      <td><a href="https://github.com/samikroy/ms-defender-scout"> 🛡️ Microsoft Defender Scout | <a href="https://github.com/marketplace/actions/microsoft-defender-scout">GitHub Marketplace Action</a></a></td>
+       </tr> 
+   <tr>
+      <td><a href="https://github.com/samikroy/azure-policy-analyzer"> ⚙️ Azure Policy Analyzer | Featured in <a href="https://github.com/github/awesome-copilot/pull/1115">Awesome Copilot</a></a></td>
+       </tr>
+   <tr>
+      <td><a href="https://github.com/samikroy/ms-sentinel-scout"> 🔍 Microsoft Sentinel Scout </a></td>
+       </tr> 
+   <tr>
+      <td><a href="https://github.com/samikroy/kql-store"> 📊 KQL Store </a></td>
        </tr> 
     <tr>
-      <td><a href="https://github.com/samikroy/the-tor-project"> THE TOR PROJECT </a></td>
+      <td><a href="https://github.com/samikroy/the-tor-project"> 🌐 The TOR Project </a></td>
       </tr>
    </table>
    </td>
    <td>
    <table>
+    <th>🔔 GITHUB MARKETPLACE & COPILOT AGENTS</th>
+         <tr>
+      <td><a href="https://github.com/marketplace/actions/microsoft-defender-scout">⚡ Microsoft Defender Scout Action</a></td>
+         </tr>
+         <tr>
+      <td><a href="https://github.com/samikroy/ms-defender-scout">🤖 Defender Scout KQL Agent</a></td>
+       </tr>
+       <tr>
+      <td><a href="https://github.com/samikroy/azure-policy-analyzer">🔐 Azure Policy Analyzer Agent</a></td>
+       </tr> 
+   <tr>
+      <td><a href="https://github.com/github/awesome-copilot/pull/1115">📋 Featured in Awesome Copilot</a></td>
+       </tr> 
+   <tr>
+      <td><a href="https://github.com/samikroy/ms-sentinel-scout">🔍 Sentinel Scout Automation</a></td>
+       </tr>
+   </table>
+</td>
+   </tr>
+   </table>
+<table>
+   <tr>
+      <td>
+<table>
     <th>🔔 IMPORTANT ARTICLES</th>
          <tr>
       <td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7043065407380848642?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7043065407380848642%29"> Audit Sentinel Analytic Rule Updates in Microsoft Sentinel</a></td>
@@ -103,7 +138,7 @@
       <td><a href="https://www.linkedin.com/pulse/syslog-workbook-microsoft-sentinel-samik-roy"> Syslog Workbook for Microsoft Sentinel </a></td>
        </tr> 
     <tr>
-      <td><a href="https://github.com/samikroy/the-tor-project](https://www.linkedin.com/pulse/get-aws-ip-ranges-from-sentinel-samik-roy"> Get AWS IP Ranges From Sentinel </a></td>
+      <td><a href="https://www.linkedin.com/pulse/get-aws-ip-ranges-from-sentinel-samik-roy"> Get AWS IP Ranges From Sentinel </a></td>
       </tr>
         <tr>
       <td><a href="https://www.linkedin.com/pulse/reduce-noise-from-aad-non-interactive-signins-samik-roy"> Reduce Noise from AAD Non Interactive SignIns </a></td>
@@ -155,18 +190,18 @@
        <tr>
       <td>38</td>
       <td><a href="https://www.indiacloudsecuritysummit.com/#agenda">🎙️ Better together: Microsoft Defender for Endpoint, Defender for Cloud Apps & Microsoft Sentinel | India Cloud Security Summit 2023 </a></td>
-      <td>December 9th , 2023</td>
+      <td>December 9, 2023</td>
       </tr>
        <tr>
       <td>37</td>
       <td><a href="https://www.m365event.com/#agenda">🎙️ Improve your security posture with Microsoft Defender for Cloud | Microsoft 365 Saturday Bangalore </a></td>
-      <td>December 2nd, 2023</td>
+      <td>December 2, 2023</td>
       </tr>
        <tr>
       <tr>
       <td>36</td>
       <td><a href="https://www.linkedin.com/posts/roysamik_azure-cloudcomputing-virtualevent-activity-7133106231338008576-Ho06?utm_source=share&utm_medium=member_desktop">🎙️ Azure User Group Vadodara </a></td>
-      <td>27th November,2023</td>
+      <td>November 27, 2023</td>
       </tr>
        <tr>
       <tr>
@@ -225,59 +260,59 @@
     <tr>
       <td>25</td>
       <td><a href="https://www.m365event.com">🗣️ M365 SATURDAY BANGALORE 2022 - Advance Hunting with Defender Portal</a></td>
-      <td>Dec, 2022</td>
+      <td>December 2022</td>
     </tr>
     <tr>
       <td>24</td>
       <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:7001392748956196864/">🎙️ Security Loopholes in the Architecture Practices in Cloud Computing</a></td>
-      <td>Nov, 2022</td>
+      <td>November 2022</td>
     </tr>
     <tr>
       <td>23</td>
       <td><a href="https://www.youtube.com/watch?v=gKsdOdvQaL4">👨‍💻 INDIA CLOUD SECURITY SUMMIT - Setup & Operationalize your Cloud SIEM at Scale</a></td>
-      <td>Oct, 2022</td>
+      <td>October 2022</td>
     </tr>
    <tr>
         <tr>
       <td>22</td>
       <td><a href="https://www.youtube.com/watch?v=LnMNcBNpUFo">🎙️ Cloud | Data | Security 🐱‍👤 ➡️ 🛡️ | DevSecOps</a></td>
-      <td>August, 2022</td>
+      <td>August 2022</td>
     </tr>
    <tr>
       <td>21</td>
       <td><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6967475269729210368/">🎙️ Terraform IaC - A Journey towards Continuous Delivery</a></td>
-      <td>August, 2022</td>
+      <td>August 2022</td>
     </tr>
    <tr>
       <td>20</td>
       <td><a href="https://www.youtube.com/watch?v=An3LH1GLtiA&t=174s">👨‍💻 AZ-104: Microsoft Azure Administrator | Bootcamp | Virtual Networking & Network Traffic Management</a></td>
-      <td>July, 2022</td>
+      <td>July 2022</td>
     </tr>
     <tr>
       <td>19</td>
       <td><a href="https://www.youtube.com/watch?v=3_yRuplWfhk&t=827s">👨‍💻 AZ-104: Microsoft Azure Administrator | Bootcamp | Azure Storage</a></td>
-      <td>July, 2022</td>
+      <td>July 2022</td>
     </tr>
     <tr>
       <td>18</td>
       <td><a href="https://www.youtube.com/watch?v=jg54U8yBxGM">👨‍💻 Microsoft Defender Advanced Hunting </a></td>
-      <td>July, 2022</td>
+      <td>July 2022</td>
     </tr>
     <tr>
       <td>17</td>
       <td><a href="https://twitter.com/MSCSUG/status/1542588243904008197">👨‍💻 Fireup a workbook from Scratch </a></td>
-      <td>July, 2022</td>
+      <td>July 2022</td>
     </tr>
    <tr>
       <td>16</td>
       <td><a href="https://www.youtube.com/watch?v=SENjwji0RXc">🎙️ Future of Tech, innovation in the cloud, & benefits of community engagement. </a></td>
-      <td>June, 2022</td>
+      <td>June 2022</td>
     </tr>
    <tr>
    <tr>
       <td>15</td>
       <td><a href="https://www.meetup.com/BangaloreITProUG/events/286130517/#:~:text=Make%20your%20Data%20meaningful%20With%20Azure%20Workbook.">🗣️ Make your Data meaningful With Azure Workbook</a></td>
-      <td>June, 2022</td>
+      <td>June 2022</td>
     </tr>
    <tr>
       <td>14</td>
@@ -300,7 +335,7 @@
              <a href="https://www.youtube.com/watch?v=kRteEUmx41o">👨‍💻 Get Smart with Data ingestion & Retention in Microsoft Sentinel at Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
       <td>
-         Nov, 2021
+         November 2021
       </td>
     </tr>
     <tr>
@@ -309,7 +344,7 @@
         <a href="https://www.youtube.com/watch?v=yrMBNgxMuas&t=3063s">👨‍💻 Zero to Hero in Azure Sentinel - Getting started with Azure Sentinel (Cloud Native SIEM ), Microsoft 365 ,Power Platform & Cloud Security UG- India</a>
        </td>
       <td>
-          Oct, 2021
+          October 2021
       </td>
     </tr>
     <tr>
@@ -345,7 +380,7 @@
          👨‍💻 Remediate and Secure your Organization with Azure Sentinel, the new ERA SIEM  at 2020twentycon
        </td>
       <td>
-         May, 2020
+         May 2020
       </td>
     </tr>
     <tr>
@@ -354,7 +389,7 @@
           🗣️ Talk to Power BI in Natural Language at Global Power Platform Bootcamp
        </td>
       <td>
-         Feb, 2020
+         February 2020
       </td>
     </tr>
      <tr>
@@ -363,7 +398,7 @@
             👨‍💻 Color your Chatbot at Azure Vidyapeeth
        </td>
       <td>
-        June, 2019
+        June 2019
       </td>
     </tr>
     <tr>
@@ -473,7 +508,12 @@
       <th> 🔔 Cᴏᴍᴍᴜɴɪᴛʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs </th>
       <th> Last Modified </th>
       <th> Status </th>
-             </tr>
+   </tr>
+   <tr>
+      <td colspan="4" align="center"><b>72+ Pull Requests to Azure-Sentinel Repository | Top 5 Microsoft Sentinel Contributor</b></td>
+   </tr>
+      <tr><td>13885</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/13885' target='_blank'>Add Cribl Workbook</a></td><td>2026-04-30</td><td>merged</td></tr>
+      <tr><td>13870</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/13870' target='_blank'>Adding workbook for AWS Security Hub Compliance</a></td><td>2026-03-20</td><td>open</td></tr>
       <tr><td>12859</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/12859' target='_blank'>Added a new workbook for WatchGuard Firebox</a></td><td>2024-09-24</td><td>closed</td></tr>
       <tr><td>12803</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/12803' target='_blank'>Adding new workbook for Auth0</a></td><td>2024-09-23</td><td>closed</td></tr>
       <tr><td>12607</td><td> ᴘᴀʀsᴇʀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/12607' target='_blank'>Updated similar to Parser for CriblUIAccess to correct the projection for other parsers</a></td><td>2024-08-11</td><td>closed</td></tr>
@@ -488,75 +528,65 @@
  <tr><td>6235</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/6235' target='_blank'>Added a workbook for Health Workbook</a></td><td>2022-09-29</td><td>closed</td></tr>
       </tr>
        </tr>
- <tr><td>5422</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5427' target='_blank'>Added a workbook for Syslog Overview</a></td><td>2022-09-06</td><td>closed</td></tr>
-      </tr>
-                               </tr>
- <tr><td>5422</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5555 ' target='_blank'>Added a workbook for Microroft Defender For Endpoint Solution</a></td><td>2022-07-26</td><td>closed</td></tr>
-      </tr>
-                  </tr>
-                        </tr>
- <tr><td>5422</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/5422 ' target='_blank'>Updated a live link for parser deployment for ProofPoint POD</a></td><td>2022-06-16</td><td>closed</td></tr>
-      </tr>
-                  </tr>
- <tr><td>5325</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5325 ' target='_blank'>Create a workbook for Microsoft Defender for Identity</a></td><td>2022-06-23</td><td>closed</td></tr>
-      </tr>
-            </tr>
- <tr><td>5283</td><td> ᴺᴿᵀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5283 ' target='_blank'>created new rule for NRT Azure DevOps Audit Stream Disabled</a></td><td>2022-06-13</td><td>closed</td></tr>
-      </tr>
- <tr><td>4679</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4679 ' target='_blank'>created new rule for NRT Authentication Methods Changed for VIP Users</a></td><td>2022-05-12</td><td>open</td></tr>
-<tr><td>4623</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4623 ' target='_blank'>Created a new workbook for MDE Advance Hunting</a></td><td>2022-04-18</td><td>closed</td></tr>
-<tr><td>4587</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4587 ' target='_blank'>Updated default name from Isolate-MDEMachine to Unisolate-MDEMachine</a></td><td>2022-04-13</td><td>closed</td></tr>
-<tr><td>4546</td><td> ᴺᴿᵀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4546 ' target='_blank'>Created NRT_Creation_of_Expensive_Computes_in_Azure.yaml</a></td><td>2022-04-13</td><td>closed</td></tr>
-<tr><td>4545</td><td> ᴺᴿᵀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4545 ' target='_blank'>Created NRT_PrivlegedRoleAssignedOutsidePIM.yaml</a></td><td>2022-04-22</td><td>closed</td></tr>
-<tr><td>4543</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4543 ' target='_blank'>Possible Fix for #4541</a></td><td>2022-04-20</td><td>closed</td></tr>
-<tr><td>4525</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4525 ' target='_blank'>Possible fix for the issue #4516</a></td><td>2022-04-22</td><td>closed</td></tr>
-<tr><td>4332</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4332 ' target='_blank'>Created an automation to keep service tags updated.</a></td><td>2022-05-04</td><td>open</td></tr>
-<tr><td>4330</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4330 ' target='_blank'>Updated the supported column to fix #4325</a></td><td>2022-03-11</td><td>closed</td></tr>
-<tr><td>4289</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4289 ' target='_blank'>Adding a new workbook for Teams solution.</a></td><td>2022-03-08</td><td>closed</td></tr>
-<tr><td>4267</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4267 ' target='_blank'>Updated SharePointAndOneDrive.json to fix #4245</a></td><td>2022-03-09</td><td>closed</td></tr>
-<tr><td>4266</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4266 ' target='_blank'>Update AzurePortalSigninfromanotherAzureTenant.yaml to fix #4262</a></td><td>2022-03-09</td><td>closed</td></tr>
-<tr><td>4128</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4128 ' target='_blank'>Adding a new workook for MicrosoftTeams</a></td><td>2022-03-04</td><td>closed</td></tr>
-<tr><td>4127</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4127 ' target='_blank'>Fixing typo for #4123</a></td><td>2022-02-08</td><td>closed</td></tr>
-<tr><td>4116</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4116 ' target='_blank'>Update readme.md to update reader to responder to ensure comment updates.</a></td><td>2022-02-09</td><td>closed</td></tr>
-<tr><td>4098</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4098 ' target='_blank'>Updated WSLMalwareCorrelation.yaml for #4054</a></td><td>2022-02-09</td><td>closed</td></tr>
-<tr><td>4089</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4089 ' target='_blank'>Create CiscoFirepower.json</a></td><td>2022-02-25</td><td>closed</td></tr>
-<tr><td>4077</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4077 ' target='_blank'>Possible Fix for #4052</a></td><td>2022-02-07</td><td>closed</td></tr>
-<tr><td>4063</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4063 ' target='_blank'>Fix for #4060</a></td><td>2022-02-02</td><td>closed</td></tr>
-<tr><td>4012</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4012 ' target='_blank'>Updated README.md for #4011</a></td><td>2022-02-09</td><td>closed</td></tr>
-<tr><td>4010</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4010 ' target='_blank'>Rename Log4jPostCompromiseHunting to Log4jPostCompromiseHunting.json</a></td><td>2022-01-27</td><td>closed</td></tr>
-<tr><td>3997</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3997 ' target='_blank'>Update PrivilegedAccountsSigninFailureSpikes.yaml to change guid,</a></td><td>2022-02-01</td><td>closed</td></tr>
-<tr><td>3977</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3977 ' target='_blank'>Update SQLServer_Parser.txt</a></td><td>2022-02-01</td><td>closed</td></tr>
-<tr><td>3976</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3976 ' target='_blank'>Update SQLServer_Parser.txt</a></td><td>2022-02-01</td><td>closed</td></tr>
-<tr><td>3888</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡  <a href='https://github.com/Azure/Azure-Sentinel/pull/3888 ' target='_blank'>Adding a new workbook on Log4j hunting</a></td><td>2022-01-19</td><td>closed</td></tr>
-<tr><td>3863</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3863 ' target='_blank'>Updating as per #3826</a></td><td>2022-01-28</td><td>closed</td></tr>
-<tr><td>3843</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3843 ' target='_blank'>Update README.md</a></td><td>2022-01-06</td><td>closed</td></tr>
-<tr><td>3826</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3826 ' target='_blank'>Updated WAF_log4j_vulnerability.yaml</a></td><td>2022-01-05</td><td>closed</td></tr>
-<tr><td>3812</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3812 ' target='_blank'>Adding a new workbook on Log4j hunting</a></td><td>2022-01-26</td><td>closed</td></tr>
-<tr><td>3783</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3783 ' target='_blank'>Adding Retention Tab</a></td><td>2022-01-05</td><td>closed</td></tr>
-<tr><td>3672</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3672 ' target='_blank'>Fix for #3669</a></td><td>2021-12-29</td><td>closed</td></tr>
-<tr><td>3657</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3657 ' target='_blank'>Updated Mitre Technique</a></td><td>2021-12-10</td><td>closed</td></tr>
-<tr><td>3634</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3634 ' target='_blank'>AADSuspectedBruteForce.yaml</a></td><td>2021-12-30</td><td>closed</td></tr>
-<tr><td>3600</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3600 ' target='_blank'>Fix for #3446</a></td><td>2022-02-02</td><td>closed</td></tr>
-<tr><td>3556</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3556 ' target='_blank'>Detection : External User Added to Team and Immediately Uploads File</a></td><td>2021-12-30</td><td>closed</td></tr>
-<tr><td>3469</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3469 ' target='_blank'>Moved hunting queries to workspace deployment saved searches</a></td><td>2021-12-10</td><td>closed</td></tr>
-<tr><td>3323</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3323 ' target='_blank'>[Proofpoint detection] - Fixes on TI match and lookback time.</a></td><td>2021-12-10</td><td>closed</td></tr>
-<tr><td>3295</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3295 ' target='_blank'>Update ASimFullDeployment.json</a></td><td>2022-01-11</td><td>closed</td></tr>
-<tr><td>3294</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3294 ' target='_blank'>Update FullDeploymentAuthentication.json</a></td><td>2022-01-11</td><td>closed</td></tr>
-<tr><td>3276</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3276 ' target='_blank'>Update readme.md</a></td><td>2022-01-11</td><td>closed</td></tr>
-<tr><td>3166</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3166 ' target='_blank'>Fixed playbook links</a></td><td>2022-01-11</td><td>closed</td></tr>
-<tr><td>3118</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3118 ' target='_blank'>Added a time chart as Sign-in Trend over Time</a></td><td>2021-12-08</td><td>closed</td></tr>
-<tr><td>3084</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3084 ' target='_blank'>Logged  By Service Trend</a></td><td>2022-01-11</td><td>closed</td></tr>
-<tr><td>3083</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3083 ' target='_blank'>Updated the correct time conversion.</a></td><td>2021-09-24</td><td>closed</td></tr>
-<tr><td>3082</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3082 ' target='_blank'>Update WorkbooksMetadata.json</a></td><td>2021-09-20</td><td>closed</td></tr>
-<tr><td>3081</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3081 ' target='_blank'>Removing the parameters filters from the workbook</a></td><td>2021-09-24</td><td>closed</td></tr>
-<tr><td>2684</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/2684 ' target='_blank'>Updated second time parameters correctly.</a></td><td>2021-09-20</td><td>closed</td></tr>
-<tr><td>2420</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/2420 ' target='_blank'>Removing second to minute conversion as selected unit is in second</a></td><td>2021-07-02</td><td>closed</td></tr>
-<tr><td>2419</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/2419 ' target='_blank'>Removing second to minute conversion as selected unit is in second</a></td><td>2021-06-07</td><td>closed</td></tr>
-<tr><td>1068</td><td>ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/1068 ' target='_blank'>Create MultipleTeamsDeletes.yaml</a></td><td>2022-01-11</td><td>closed</td></tr>
-<tr><td>1067</td><td>ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/1067 ' target='_blank'>Create ExternalUserAddedRemovedInTeams.yaml</a></td><td>2022-01-11</td><td>closed</td></tr>
-<tr><td>796</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/796 ' target='_blank'>Updated AzureActivity.json</a></td><td>2020-09-25</td><td>closed</td></tr>
-<tr><td>623</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/623 ' target='_blank'>Updated Host entity mapping</a></td><td>2020-04-29</td><td>closed</td></tr>
-<tr><td>573</td><td>ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/573 ' target='_blank'>Create UserAccountEnabledDisabled_10m.yaml</a></td><td>2020-04-06</td><td>closed</td></tr>
+ <tr><td>5427</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5427' target='_blank'>Added a workbook for Syslog Overview</a></td><td>2022-09-06</td><td>closed</td></tr>
+ <tr><td>5555</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5555' target='_blank'>Added a workbook for Microsoft Defender For Endpoint Solution</a></td><td>2022-07-26</td><td>closed</td></tr>
+ <tr><td>5422</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/5422' target='_blank'>Updated a live link for parser deployment for ProofPoint POD</a></td><td>2022-06-16</td><td>closed</td></tr>
+ <tr><td>5325</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5325' target='_blank'>Create a workbook for Microsoft Defender for Identity</a></td><td>2022-06-23</td><td>closed</td></tr>
+ <tr><td>5283</td><td> ᴺᴿᵀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/5283' target='_blank'>created new rule for NRT Azure DevOps Audit Stream Disabled</a></td><td>2022-06-13</td><td>closed</td></tr>
+ <tr><td>4679</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4679' target='_blank'>created new rule for NRT Authentication Methods Changed for VIP Users</a></td><td>2022-05-12</td><td>open</td></tr>
+<tr><td>4623</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4623' target='_blank'>Created a new workbook for MDE Advance Hunting</a></td><td>2022-04-18</td><td>closed</td></tr>
+<tr><td>4587</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4587' target='_blank'>Updated default name from Isolate-MDEMachine to Unisolate-MDEMachine</a></td><td>2022-04-13</td><td>closed</td></tr>
+<tr><td>4546</td><td> ᴺᴿᵀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4546' target='_blank'>Created NRT_Creation_of_Expensive_Computes_in_Azure.yaml</a></td><td>2022-04-13</td><td>closed</td></tr>
+<tr><td>4545</td><td> ᴺᴿᵀ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4545' target='_blank'>Created NRT_PrivlegedRoleAssignedOutsidePIM.yaml</a></td><td>2022-04-22</td><td>closed</td></tr>
+<tr><td>4543</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4543' target='_blank'>Possible Fix for #4541</a></td><td>2022-04-20</td><td>closed</td></tr>
+<tr><td>4525</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4525' target='_blank'>Possible fix for the issue #4516</a></td><td>2022-04-22</td><td>closed</td></tr>
+<tr><td>4332</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4332' target='_blank'>Created an automation to keep service tags updated.</a></td><td>2022-05-04</td><td>open</td></tr>
+<tr><td>4330</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4330' target='_blank'>Updated the supported column to fix #4325</a></td><td>2022-03-11</td><td>closed</td></tr>
+<tr><td>4289</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4289' target='_blank'>Adding a new workbook for Teams solution.</a></td><td>2022-03-08</td><td>closed</td></tr>
+<tr><td>4267</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4267' target='_blank'>Updated SharePointAndOneDrive.json to fix #4245</a></td><td>2022-03-09</td><td>closed</td></tr>
+<tr><td>4266</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4266' target='_blank'>Update AzurePortalSigninfromanotherAzureTenant.yaml to fix #4262</a></td><td>2022-03-09</td><td>closed</td></tr>
+<tr><td>4128</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4128' target='_blank'>Adding a new workbook for MicrosoftTeams</a></td><td>2022-03-04</td><td>closed</td></tr>
+<tr><td>4127</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4127' target='_blank'>Fixing typo for #4123</a></td><td>2022-02-08</td><td>closed</td></tr>
+<tr><td>4116</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4116' target='_blank'>Update readme.md to update reader to responder to ensure comment updates.</a></td><td>2022-02-09</td><td>closed</td></tr>
+<tr><td>4098</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4098' target='_blank'>Updated WSLMalwareCorrelation.yaml for #4054</a></td><td>2022-02-09</td><td>closed</td></tr>
+<tr><td>4089</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/4089' target='_blank'>Create CiscoFirepower.json</a></td><td>2022-02-25</td><td>closed</td></tr>
+<tr><td>4077</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4077' target='_blank'>Possible Fix for #4052</a></td><td>2022-02-07</td><td>closed</td></tr>
+<tr><td>4063</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4063' target='_blank'>Fix for #4060</a></td><td>2022-02-02</td><td>closed</td></tr>
+<tr><td>4012</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4012' target='_blank'>Updated README.md for #4011</a></td><td>2022-02-09</td><td>closed</td></tr>
+<tr><td>4010</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/4010' target='_blank'>Rename Log4jPostCompromiseHunting to Log4jPostCompromiseHunting.json</a></td><td>2022-01-27</td><td>closed</td></tr>
+<tr><td>3997</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3997' target='_blank'>Update PrivilegedAccountsSigninFailureSpikes.yaml to change guid</a></td><td>2022-02-01</td><td>closed</td></tr>
+<tr><td>3977</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3977' target='_blank'>Update SQLServer_Parser.txt</a></td><td>2022-02-01</td><td>closed</td></tr>
+<tr><td>3976</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3976' target='_blank'>Update SQLServer_Parser.txt</a></td><td>2022-02-01</td><td>closed</td></tr>
+<tr><td>3888</td><td> ᴡᴏʀᴋʙᴏᴏᴋ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/3888' target='_blank'>Adding a new workbook on Log4j hunting</a></td><td>2022-01-19</td><td>closed</td></tr>
+<tr><td>3863</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3863' target='_blank'>Updating as per #3826</a></td><td>2022-01-28</td><td>closed</td></tr>
+<tr><td>3843</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3843' target='_blank'>Update README.md</a></td><td>2022-01-06</td><td>closed</td></tr>
+<tr><td>3826</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3826' target='_blank'>Updated WAF_log4j_vulnerability.yaml</a></td><td>2022-01-05</td><td>closed</td></tr>
+<tr><td>3812</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3812' target='_blank'>Adding a new workbook on Log4j hunting</a></td><td>2022-01-26</td><td>closed</td></tr>
+<tr><td>3783</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3783' target='_blank'>Adding Retention Tab</a></td><td>2022-01-05</td><td>closed</td></tr>
+<tr><td>3672</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3672' target='_blank'>Fix for #3669</a></td><td>2021-12-29</td><td>closed</td></tr>
+<tr><td>3657</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3657' target='_blank'>Updated Mitre Technique</a></td><td>2021-12-10</td><td>closed</td></tr>
+<tr><td>3634</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3634' target='_blank'>AADSuspectedBruteForce.yaml</a></td><td>2021-12-30</td><td>closed</td></tr>
+<tr><td>3600</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3600' target='_blank'>Fix for #3446</a></td><td>2022-02-02</td><td>closed</td></tr>
+<tr><td>3556</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3556' target='_blank'>Detection : External User Added to Team and Immediately Uploads File</a></td><td>2021-12-30</td><td>closed</td></tr>
+<tr><td>3469</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3469' target='_blank'>Moved hunting queries to workspace deployment saved searches</a></td><td>2021-12-10</td><td>closed</td></tr>
+<tr><td>3323</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3323' target='_blank'>[Proofpoint detection] - Fixes on TI match and lookback time.</a></td><td>2021-12-10</td><td>closed</td></tr>
+<tr><td>3295</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3295' target='_blank'>Update ASimFullDeployment.json</a></td><td>2022-01-11</td><td>closed</td></tr>
+<tr><td>3294</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3294' target='_blank'>Update FullDeploymentAuthentication.json</a></td><td>2022-01-11</td><td>closed</td></tr>
+<tr><td>3276</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3276' target='_blank'>Update readme.md</a></td><td>2022-01-11</td><td>closed</td></tr>
+<tr><td>3166</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3166' target='_blank'>Fixed playbook links</a></td><td>2022-01-11</td><td>closed</td></tr>
+<tr><td>3118</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3118' target='_blank'>Added a time chart as Sign-in Trend over Time</a></td><td>2021-12-08</td><td>closed</td></tr>
+<tr><td>3084</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3084' target='_blank'>Logged By Service Trend</a></td><td>2022-01-11</td><td>closed</td></tr>
+<tr><td>3083</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3083' target='_blank'>Updated the correct time conversion.</a></td><td>2021-09-24</td><td>closed</td></tr>
+<tr><td>3082</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3082' target='_blank'>Update WorkbooksMetadata.json</a></td><td>2021-09-20</td><td>closed</td></tr>
+<tr><td>3081</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/3081' target='_blank'>Removing the parameters filters from the workbook</a></td><td>2021-09-24</td><td>closed</td></tr>
+<tr><td>2684</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/2684' target='_blank'>Updated second time parameters correctly.</a></td><td>2021-09-20</td><td>closed</td></tr>
+<tr><td>2420</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/2420' target='_blank'>Removing second to minute conversion as selected unit is in second</a></td><td>2021-07-02</td><td>closed</td></tr>
+<tr><td>2419</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/2419' target='_blank'>Removing second to minute conversion as selected unit is in second</a></td><td>2021-06-07</td><td>closed</td></tr>
+<tr><td>1068</td><td>ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/1068' target='_blank'>Create MultipleTeamsDeletes.yaml</a></td><td>2022-01-11</td><td>closed</td></tr>
+<tr><td>1067</td><td>ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/1067' target='_blank'>Create ExternalUserAddedRemovedInTeams.yaml</a></td><td>2022-01-11</td><td>closed</td></tr>
+<tr><td>796</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/796' target='_blank'>Updated AzureActivity.json</a></td><td>2020-09-25</td><td>closed</td></tr>
+<tr><td>623</td><td><a href='https://github.com/Azure/Azure-Sentinel/pull/623' target='_blank'>Updated Host entity mapping</a></td><td>2020-04-29</td><td>closed</td></tr>
+<tr><td>573</td><td>ᴬᴺᴬᴸʸᵀᴵᶜ ⚡ <a href='https://github.com/Azure/Azure-Sentinel/pull/573' target='_blank'>Create UserAccountEnabledDisabled_10m.yaml</a></td><td>2020-04-06</td><td>closed</td></tr>
 </table>
 
 
